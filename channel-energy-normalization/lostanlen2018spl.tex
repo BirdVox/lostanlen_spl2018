@@ -4,7 +4,7 @@
 %% by Michael Shell
 %% see http://www.michaelshell/
 %% for current contact information.
-%%
+%% 
 %% This is a skeleton file demonstrating the use of IEEEtran.cls
 %% (requires IEEEtran.cls version 1.8b or later) with an IEEE
 %% journal paper.
@@ -12,14 +12,14 @@
 %% Support sites:
 %% http://www.michaelshell.org/tex/ie eetran/
 %% http://www.ctan.org/pkg/ieeetran
-%% and
+%% and 
 %% http://www.ieee.org/
 
 %%*************************************************************************
 %% Legal Notice:
 %% This code is offered as-is without any warranty either expressed or
 %% implied; without even the implied warranty of MERCHANTABILITY or
-%% FITNESS FOR A PARTICULAR PURPOSE!
+%% FITNESS FOR A PARTICULAR PURPOSE! 
 %% User assumes all risk.
 %% In no event shall the IEEE or any contributor to this code be liable for
 %% any damages or losses, including, but not limited to, incidental,
@@ -133,7 +133,7 @@
 % graphicx was written by David Carlisle and Sebastian Rahtz. It is
 % required if you want graphics, photos, etc. graphicx.sty is already
 % installed on most LaTeX systems. The latest version and documentation
-% can be obtained at:
+% can be obtained at: 
 % http://www.ctan.org/pkg/graphicx
 % Another good source of documentation is "Using Imported Graphics in
 % LaTeX2e" by Keith Reckdahl which can be found at:
@@ -291,8 +291,8 @@
 % \let\MYoriglatexcaption\caption
 % \renewcommand{\caption}[2][\relax]{\MYoriglatexcaption[#2]{#2}}
 %\fi
-% endfloat.sty was written by James Darrell McCauley, Jeff Goldberg and
-% Axel Sommerfeldt. This package may be useful when used in conjunction with
+% endfloat.sty was written by James Darrell McCauley, Jeff Goldberg and 
+% Axel Sommerfeldt. This package may be useful when used in conjunction with 
 % IEEEtran.cls'  captionsoff option. Some IEEE journals/societies require that
 % submissions have lists of figures/tables at the end of the paper and that
 % figures/tables without any captions are placed on a page by themselves at
@@ -321,7 +321,7 @@
 % http://www.ctan.org/pkg/endfloat
 %
 % The IEEEtran \ifCLASSOPTIONcaptionsoff conditional can also be used
-% later in the document, say, to conditionally put the References on a
+% later in the document, say, to conditionally put the References on a 
 % page by themselves.
 
 
@@ -411,10 +411,10 @@ Andrew~Farnsworth, Steve~Kelling, and Juan~Pablo~Bello% <-this % stops a space
 J. Salamon, M. Cartwright, B. McFee, and J. P. Bello are with New York University.}% <-this % stops a space
 }
 
-% note the % following the last \IEEEmembership and also \thanks -
+% note the % following the last \IEEEmembership and also \thanks - 
 % these prevent an unwanted space from occurring between the last author name
 % and the end of the author line. i.e., if you had this:
-%
+% 
 % \author{....lastname \thanks{...} \thanks{...} }
 %                     ^------------^------------^----Do not want these spaces!
 %
@@ -436,7 +436,7 @@ J. Salamon, M. Cartwright, B. McFee, and J. P. Bello are with New York Universit
 {Lostanlen \MakeLowercase{\textit{et al.}}: \title{}}
 % The only time the second header will appear is for the odd numbered pages
 % after the title page when using the twoside option.
-%
+% 
 % *** Note that you probably will NOT want to include the author's ***
 % *** name in the headers of peer review papers.                   ***
 % You can use \ifCLASSOPTIONpeerreview for conditional compilation here if
@@ -491,14 +491,14 @@ Acoustic noise, acoustic sensors, acoustic signal detection, signal classificati
 \section{Introduction}
 % The very first letter is a 2 line initial drop letter followed
 % by the rest of the first word in caps.
-%
+% 
 % form to use if the first word consists of a single letter:
 % \IEEEPARstart{A}{demo} file is ....
-%
+% 
 % form to use if you need the single drop letter followed by
 % normal text (unknown if ever used by the IEEE):
 % \IEEEPARstart{A}{}demo file is ....
-%
+% 
 % Some journals put the first two words in caps:
 % \IEEEPARstart{T}{his demo} file is ....
 %
@@ -514,8 +514,8 @@ On the other hand, equivariance is only possible if foreground and background ha
 The generalizability of learned convolutional kernels across acoustically similar events of distinct fundamental frequencies is hindered by the contradiction between these two assumptions.
 To reconcile them, the background must result from a stochastic process that is stationary along the mel-frequency axis \cite{badeau2016techreport}.
 Indeed, the robustness of deep neural networks to adversarial additive perturbations has been shown to be theoretically optimal if background noise in the training set is additive, white, and Gaussian (AWGN) \cite{franceschi2018aistats}.
-However, in the absence of any further processing, magnitudes in the mel-frequency spectrogram $\mathbf{E}(t, f)$ of real-world acoustic scenes are typically sparse and strongly correlated, both along time $t$ and mel frequency $f $\cite{mcdermott2011neuron}, and thus not approximable by AWGN.
-
+However, in the absence of any further processing, magnitudes in the mel-frequency spectrogram $\mathbf{E}(t, f)$ of real-world acoustic scenes are typically sparse and strongly correlated, both along time $t$ and mel frequency $f $\cite{mcdermott2011neuron}, and thus not approximable by AWGN. 
+ 
 
 \begin{figure}
 \centering
@@ -528,7 +528,7 @@ However, in the absence of any further processing, magnitudes in the mel-frequen
 %, as recorded from an omnidirectional acoustic sensor.
 The logarithmic transformation of the mel-frequency spectrogram (a) maps all magnitudes to a decibel-like scale, whereas per-channel energy normalization (b) enhances transient events (bird calls) while discarding stationary noise (insects) as well as slow changes in loudness (vehicle). Data provided by BirdVox. Mel-spectrogram and PCEN computed with default librosa 0.6.1 parameters and $T=\SI{60}{\milli\second}$ (see Section \ref{sec:practical-recommendations}).}
 \label{fig:spectrogram}
-\end{figure}
+\end{figure} 
 
 Per-channel energy normalization (PCEN) \cite{wang2017icassp} has recently been proposed as an alternative to the logarithmic transformation of the mel-spectrogram (logmelspec), with the aim of improving robustness to non-AWGN background noise.
 PCEN combines dynamic range compression (DRC, also present in logmelspec) and adaptive gain control (AGC) with temporal integration. AGC is a prior stage to DRC involving a low-pass filter $\mathbf{\phi}_T$ of support $T$, thus yielding
@@ -550,7 +550,7 @@ This article aims to address this gap by showing empirically how PCEN Gaussianiz
 
 \section{Why PCEN works: a statistical analysis\label{sec:statistical}}
 Figure \ref{fig:spectrogram} compares logmelspec and PCEN on a complex acoustic scene: while PCEN enhances chirped events, it converts background noise into a spectrotemporal texture that is devoid of long-range interactions.
-To demonstrate this property across a variety of acoustic conditions, we perform a comparatie statistical analysis of logmelspec and PCEN output on a sample of urban, periurban, and rural recordings.
+To demonstrate this property across a variety of acoustic conditions, we perform a comparative statistical analysis of logmelspec and PCEN output on a sample of urban, periurban, and rural recordings.
 %Additive white Gaussian noise (AWGN) is at the foundation of communication theory, yet an unrealistic surrogate for environmental acoustic noise.
 %This section provides evidence that PCEN turns real-world noise into a texture that is indistinguishable from AWGN in the mel-frequency spectrogram, in three application settings: urban (SONYC), periurban (DCASE 2013 SC), and rural (BirdVox).
 
@@ -559,7 +559,7 @@ The SONYC dataset consists of $66$ ten-second recordings sampled from data colle
 To maximize acoustic diversity in the construction of the SONYC subset, we collect ten different example recordings from YouTube for 22 urban sound classes  -- \eg{}  \textit{car horn}, \textit{crowd}, \textit{jackhammer}, etc. -- and extract one-second VGGish features \cite{hershey2017cnn} from both the YouTube recordings and the SONYC recordings.
 Out of the class-wise top-50, we manually curate three recordings, amounting to a subset of $22\times3\times10 = 660$ seconds of audio (7.3M coefficients).
 %The SONYC project has deployed $51$ acoustic sensors in New York City, NY, USA, to monitor noise pollution \cite{bello2018cacm}.
-%To date, the data collected by SONYC exceeds 14k hours; in order to make the computation of magnitude histograms tractable, we extract 66 ten-second recordings.
+%To date, the data collected by SONYC exceeds 14k hours; in order to make the computation of magnitude histograms tractable, we extract 66 ten-second recordings. 
 %To maximize acoustic diversity in the construction of the SONYC subset, we collected ten different example recordings from YouTube for 22 urban sound classes  -- \eg{}  \textit{car horn}, \textit{crowd}, \textit{jackhammer}, etc. -- and extracted one-second VGGish features \cite{hershey2017cnn} from both the YouTube recordings and the SONYC recordings.
 %For each class, we ranked the SONYC recordings by their mean squared frame-wise Euclidean distance to the example recordings.
 %Out of the class-wise top-50, we manually curated three recordings, amounting to a subset of $22\times3\times10 = 660$ seconds of audio (7.3M coefficients).
@@ -683,7 +683,7 @@ The smoothed mel-frequency spectrogram $\mathbf{M}(t,f)$ estimates the level of 
 \label{eq:gain-control}
 \end{equation}
 where $0 < \alpha < 1$ (\resp{} $\varepsilon > 0$) is the exponent (\resp{} soft threshold) of AGC.
-This stage resembles mean-variance renormalization \cite{chen2007taslp}, relative spectra (RASTA) \cite{hermansky1994tsap}, and cepstral mean normalization \cite{atal1974jasa}.
+This stage resembles mean-variance renormalization \cite{chen2007taslp}, relative spectra (RASTA) \cite{hermansky1994tsap}, and cepstral mean normalization \cite{atal1974jasa}. 
 
 The parameter $\varepsilon$ distinguishes two regimes: silent ($\mathbf{M}(t,f) \ll \varepsilon$) and active ($\mathbf{M}(t,f) \gg \varepsilon$).
 Multiplying $\mathbf{E}(t,f)$ by some constant $C$ leads to $\mathbf{G}(t,f)$ being multiplied by approximately $C$ in the silent regime and by $C^{1-\alpha}$ in the active regime.
@@ -703,7 +703,7 @@ In the limit case $\varepsilon = 0$ and $\alpha = 1$, the proposition below prov
 Let $\mathbf{h}(t)$ be the impulse response of some acoustic environment or recording device. If $\vert\widehat{\mathbf{h}}\vert(f) = 0$ for $f < \frac{1}{T}$ and $\vert\widehat{\mathbf{h}}\vert(f) > 0$ for every $f$ in the audible range, $\mathbf{G}$ is invariant to the filtering of the underlying waveform by $\mathbf{h}$.
 \end{prop}
 
-This result makes PCEN suitable for remote sensing applications, where acoustic models need to be robust to variations in the absorption properties of the environment, as well as in sensor technology \cite{katsamanis2014icassp,lostanlen2017phd}.
+This result, derived from \cite{anden2014taslp}, makes PCEN suitable for remote sensing applications, where acoustic models need to be robust to variations in the absorption properties of the environment, as well as in sensor technology \cite{katsamanis2014icassp,lostanlen2017phd}.
 
 \begin{figure}
 \centering
@@ -774,7 +774,7 @@ For a mel-frequency spectrogram of $N$ bands ranging between $\mathrm{mel}(f_{\m
 where $c$ is the typical chirp rate of the event of interest, measured in mels per second; and $K$ is some constant, depending on the reverberation properties of the environment.
 If the mel-frequency spectrogram is replaced by a constant-$Q$ transform, the rule of thumb simply becomes $T \times c \times Q = K$,
 where $c$ (\resp{} $Q$) is measured in octaves (\resp{} octaves per second).
-$K$ is of the order of $1$ in  dry environments
+$K$ is of the order of $1$ in  dry environments 
 %(\eg{} ASR in the smart home \cite{lecouteux2011interspeech})
 and above $10$ in highly reverberant environment, \eg{} bioacoustic event detection \cite{salamon2016plos,shonfield2017ace}.
 
@@ -874,7 +874,7 @@ Leon Levy Foundation, and a Google faculty award.
 %\end{thebibliography}
 
 % biography section
-%
+% 
 % If you have an EPS/PDF photo (graphicx package needed) extra braces are
 % needed around the contents of the optional argument to biography to prevent
 % the LaTeX parser from getting confused when it sees the complicated
@@ -915,265 +915,6 @@ Leon Levy Foundation, and a Google faculty award.
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%% SUPPLEMENTARY MATERIAL %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\cleardoublepage
-
-
-\section{Supplementary material}
-
-\renewenvironment{proof}{}{\qed}
-
-%\subsection{Extension of Figures \ref{fig:gaussianization}}
-
-% \begin{figure}
-% \centering
-% \subfloat[Logarithmic transformation.]{%
-% \stackunder{SONYC}{\includegraphics[width=0.33\linewidth,trim={0 0 0 20.5cm},clip]{SONYC-pcen_logE_histogram.eps}}
-% \stackunder{DCASE 2013}{\includegraphics[width=0.33\linewidth,trim={0 0 0 20.5cm},clip]{DCASE2013-pcen_logE_histogram.eps}}
-% \stackunder{BirdVox}{\includegraphics[width=0.33\linewidth,trim={0 0 0 20.5cm},clip]{BirdVox-pcen_logE_histogram.eps}}}
-% \\
-% \subfloat[Simple renormalization: $\mathbf{E} \mapsto \dfrac{\mathbf{E}}{\mathbf{E}\ast\boldsymbol{\phi}}$.]{%
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{SONYC-pcen_EoverM_histogram.eps}
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{DCASE2013-pcen_EoverM_histogram.eps}
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{BirdVox-pcen_EoverM_histogram.eps}}
-% \\
-% \subfloat[Renormalization with soft threshold: $\mathbf{E} \mapsto \dfrac{\mathbf{E}}{\varepsilon+(\mathbf{E}\ast\boldsymbol{\phi})}$.]{%
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{SONYC-pcen_EoverMplusEps_histogram.eps}
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{DCASE2013-pcen_EoverMplusEps_histogram.eps}
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{BirdVox-pcen_EoverMplusEps_histogram.eps}}
-% \\
-% \subfloat[Renormalization with soft threshold and exponent: $\mathbf{E} \mapsto \dfrac{\mathbf{E}}{(\varepsilon+(\mathbf{E}\ast\boldsymbol{\phi}))^\alpha}$.]{%
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{SONYC-pcen_G_histogram.eps}
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{DCASE2013-pcen_G_histogram.eps}
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 20cm},clip]{BirdVox-pcen_G_histogram.eps}}
-% \\
-% \subfloat[Per-channel energy normalization (PCEN).]{%
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 21cm},clip]{SONYC-pcen_PCEN_histogram.eps}
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 21cm},clip]{DCASE2013-pcen_PCEN_histogram.eps}
-% \includegraphics[width=0.33\linewidth,trim={0 0 0 21cm},clip]{BirdVox-pcen_PCEN_histogram.eps}}
-% \caption{Distributions of magnitudes in the mel-frequency spectrogram after logmelspec (a),  and PCEN (c), as estimated on three datasets of acoustic scenes:
-% SONYC (left); DCASE 2013 (middle); and BirdVox (right).
-% Each distribution is scaled to null mean and unit variance, and discretized with $500$ histogram bins ranging between $-4$ and $4$.
-% For comparison, the dashed line indicates the standard normal distribution.
-% See Subsection \ref{sub:gaussianization} for details.}
-% \label{fig:gaussianization-extended}
-% \end{figure}
-
-% \begin{figure}
-% \centering
-% \subfloat[Logarithmic transformation.]{
-% \stackunder{SONYC}{\includegraphics[width=0.33\linewidth]{SONYC-pcen_logE_covariance.eps}}
-% \stackunder{DCASE 2013}{\includegraphics[width=0.33\linewidth]{DCASE2013-pcen_logE_covariance.eps}}
-% \stackunder{BirdVox}{\includegraphics[width=0.33\linewidth]{BirdVox-pcen_logE_covariance.eps}}}
-% \\
-% \subfloat[Simple renormalization.]{
-% \stackunder{SONYC}{\includegraphics[width=0.33\linewidth]{SONYC-pcen_EoverM_covariance.eps}}
-% \stackunder{DCASE 2013}{\includegraphics[width=0.33\linewidth]{DCASE2013-pcen_EoverM_covariance.eps}}
-% \stackunder{BirdVox}{\includegraphics[width=0.33\linewidth]{BirdVox-pcen_EoverM_covariance.eps}}}
-% \\
-% \subfloat[Simple renormalization.]{
-% \stackunder{SONYC}{\includegraphics[width=0.33\linewidth]{SONYC-pcen_EoverMplusEps_covariance.eps}}
-% \stackunder{DCASE 2013}{\includegraphics[width=0.33\linewidth]{DCASE2013-pcen_EoverMplusEps_covariance.eps}}
-% \stackunder{BirdVox}{\includegraphics[width=0.33\linewidth]{BirdVox-pcen_EoverMplusEps_covariance.eps}}}
-% \\
-% \subfloat[Renormalization with soft threshold and exponent.]{
-% \stackunder{SONYC}{\includegraphics[width=0.33\linewidth]{SONYC-pcen_G_covariance.eps}}
-% \stackunder{DCASE 2013}{\includegraphics[width=0.33\linewidth]{DCASE2013-pcen_G_covariance.eps}}
-% \stackunder{BirdVox}{\includegraphics[width=0.33\linewidth]{BirdVox-pcen_G_covariance.eps}}}
-% \\
-% \subfloat[Per-channel energy normalization (PCEN).]{
-% \includegraphics[width=0.33\linewidth]{SONYC-pcen_PCEN_covariance.eps}
-% \includegraphics[width=0.33\linewidth]{DCASE2013-pcen_PCEN_covariance.eps}
-% \includegraphics[width=0.33\linewidth]{BirdVox-pcen_PCEN_covariance.eps}}
-% \caption{Covariance matrices of frequency channels after logarithmic transformation (a) and PCEN (b), as estimated on three datasets of acoustic scenes: SONYC (left); DCASE 2013 (middle); and BirdVox (right).
-% Darker shades indicate larger covariances in absolute value. See Subsection \ref{sub:decorrelation} for details.}
-% \label{fig:decorrelation-extended}
-% \end{figure}
-
-\subsection{Proof of Proposition \ref{prop:temporal-integration} on temporal integration}
-
-% \begin{prop*}
-% Let $0 < s < 1$ and $\tau >0$.
-% The infinite impulse reponse filter $\boldsymbol{\phi}_T$ defined by the autoregressive process
-% \begin{equation}
-% \mathbf{y}(t) = (\mathbf{x} \ast \boldsymbol{\phi}_T)(t) = s \mathbf{x}(t) + (1-s) \mathbf{y}(t - \tau),
-% \end{equation}
-% has a gain $\SI{0}{\decibel}$ at \SI{0}{\hertz}, a cutoff frequency
-% \begin{equation}
-% \omega_\mathrm{c} = \arccos\left(1 - \frac{s^2}{2 (1-s)}\right)
-% \end{equation}
-% at \SI{3}{\decibel}, and a sidelobe falloff of \SI{10}{\decibel} per decade near $\omega_\mathrm{c}$.
-% \end{prop*}
-
-\begin{proof}
-At a discrete rate $\tau^{-1}$, the Fourier transform of $\boldsymbol{\phi}_T$ is
-\begin{align}
-\widehat{\boldsymbol{\phi}_T}  (\omega) =
-\mathcal{Z}\{\boldsymbol{\phi}_T\}(\mathrm{e}^{\mathrm{j}\omega})
-= \dfrac{s \mathrm{e}^{\mathrm{j}\omega}}{\mathrm{e}^{\mathrm{j}\omega} - (1-s)}.
-\end{align}
-The squared magnitude of the denominator simplifies as
-\begin{align}
-\vert \mathrm{e}^{\mathrm{j}\omega} - (1-s) \vert^2
-& = (\cos \omega - (1-s))^2 + (\sin \omega)^2 \nonumber \\
-& = 1 + (1-s)^2 - 2 (1-s) \cos \omega \nonumber \\
-& = (1 - (1-s))^2 + 2 (1-s) (1 - \cos \omega) \nonumber \\
-& = s^2 + 2 (1-s) (1 - \cos \omega).
-\end{align}
-Let $\omega_0 = \frac{s}{\sqrt{1-s}}$.
-The equivalent $(1 - \cos \omega) \sim \frac{\omega^2}{2}$ at the limit $\omega \rightarrow 0$ indicates a quadratic decay in the lowest frequencies, \ie{} a sidelobe falloff of $\SI{10}{\decibel}$ per decade.
-On one hand, the double inequality $-1 \leq \cos \omega \leq 1$ leads to
-\begin{equation}
-\dfrac{\omega_0^2}{\omega_0^2 + 2} \leq \vert \widehat{\boldsymbol{\phi}_T} \vert^2 (\omega) \leq 1.
-\end{equation}
-The upper (\resp{} lower) bound is attained if and only if $\omega = 0$ (\resp{} $\omega = \pi$).
-Consequently, $\boldsymbol{\phi}_T$ has a DC gain of $\SI{0}{\decibel}$ at $\SI{0}{\Hz}$, and a gain of $10 \log_{10} \frac{\omega_0^2}{2+\omega_0^2}$ (in dB) at the Nyquist frequency.
-On the other hand, the cutoff frequency at $\SI{3}{\decibel}$ $\omega_{\mathrm{c}}$ is defined by $\vert\widehat{\boldsymbol{\phi}_T}\vert^2(\omega_c) = \frac{1}{2}$, which can be reformulated as
-\begin{equation}
-1 - \cos \omega_\mathrm{c} = \frac{ s^2}{2(1-s)} = \frac{\omega_0^2}{2}.
-\label{eq:cutoff-frequency}
-\end{equation}
-Solving Equation \ref{eq:cutoff-frequency} with $\omega_\mathrm{c} > 0$ completes the proof.
-\end{proof}
-
-\begin{remark}
-For large $T$, we can approximate $\omega_{c}$ by $\omega_0$, which is polynomial in $s$.
-Indeed, applying Taylor's theorem to the cosine function yields the inequality $\vert 1 - \cos \omega - \frac{\omega^2}{2}\vert \leq \frac{\omega^4}{24}$, of which we deduce
-\begin{equation}
-\omega_0 \leq \omega_\mathrm{c} \leq \dfrac{\omega_0}{\sqrt{1 - \dfrac{\omega_\mathrm{c}^2}{12}}}
-%\leq 6 \left(1-\sqrt{1-\dfrac{\omega_0}{3}}\right)
-\leq \omega_0 + \dfrac{\omega_0^2}{12} + \dfrac{\omega_0^3}{12}.
-\end{equation}
-\end{remark}
-
-
-\subsection{Proof of Proposition \ref{prop:gain-control} on adaptive gain control}
-
-% \begin{prop*}
-% Let $0 < \alpha < 1$ and $\varepsilon > 0$.
-% The adaptive gain level
-% \begin{equation}
-% \mathbf{G} = \dfrac{ \mathbf{E} }{ (\mathbf{M}+\varepsilon)^\alpha}
-% \end{equation}
-% is asymptotically equivalent to:
-% \begin{enumerate}[label=(\roman*)]
-% \item $\mathbf{E}(t,f) / \varepsilon^\alpha$ if $\mathbf{M}(t,f) \ll \varepsilon$, and to
-% \item $\mathbf{E}(t,f) / \mathbf{M}(t,f)^\alpha$ if $\mathbf{M}(t,f) \gg \varepsilon$.
-% \end{enumerate}
-% \end{prop*}
-
-\begin{proof}
-First, applying Taylor's theorem to $x \mapsto (1+x)^{-\alpha}$ gives $\left \vert (\mathbf{M} + \varepsilon)^{-\alpha} - \varepsilon^{-\alpha} \right \vert \leq \alpha \frac{\mathbf{M}}{\varepsilon^{1+\alpha}}$, from which we deduce (i) with a relative error of at most $\alpha \frac{\mathbf{M}}{\varepsilon}$.
-Symmetrically, we have $\left \vert (\mathbf{M} + \varepsilon)^{-\alpha} - \mathbf{M}^{-\alpha} \right \vert \leq \alpha \frac{\varepsilon}{\mathbf{M}^{1+\alpha}}$ from which we deduce (ii) with a relative error of at most $\alpha \frac{\varepsilon}{\mathbf{M}}$.
-\end{proof}
-
-
-
-\subsection{Proof of Proposition \ref{prop:loudness-compression} on dynamic range compression}
-
-% \begin{prop*}
-% Let $0 < r < 1$ and $\delta > 0$.
-% The per-channel energy normalization
-% \begin{equation}
-% \mathbf{PCEN} = (\mathbf{G} + \delta)^r - \delta^r
-% \end{equation}
-% is asymptotically equivalent to:
-% \begin{enumerate}[label=(\roman*)]
-% \item $r \delta^{(r-1)} \mathbf{G}$ if $\mathbf{G} \ll \delta$, and to
-% \item $\mathbf{G}^r$ if $\mathbf{G} \gg \delta$.
-% \end{enumerate}
-% \end{prop*}
-
-\begin{proof}
-First, applying Taylor's theorem to $x \mapsto (1+x)^r$ gives
-$\vert \mathbf{PCEN} - r \delta^{(r-1)} \mathbf{G} \vert \leq \frac{1-r}{2} r \delta^{(r-1)} \mathbf{G}^2$, of which we deduce (i) with a relative error of at most $\frac{1-r}{2} \mathbf{G}$.
-Secondly, we have
-$\left \vert \left(1 + \frac{1}{\mathbf{G}^r}\right)^r - \left(r + \frac{r}{\mathbf{G}^r} \right)\right \vert \leq \frac{r(1-r)}{2\mathbf{G}^{2r}}$, which, after adding the constant $(1-r)$, leads to (ii) with a relative error of at most $\frac{1-r}{\mathbf{G}^r} (1+\frac{r}{2\mathbf{G}^r})$ by application of the triangular inequality.
-\end{proof}
-
-\begin{remark}
-In both cases, the relative error is null if and only if $r=1$, \ie{} if there is no root compression.
-\end{remark}
-
-
-\subsection{Proof of Proposition \ref{prop:T-to-s} on the link between $T$ and $s$}
-
-% \begin{prop*}
-% Let $\tau > 0$ and $T>2\tau$.
-% At the discrete rate $\tau^{-1}$, let $\boldsymbol{\phi}_T$ an infinite impulse response filter of time scale $T$, defined by the autoregressive process
-% \begin{equation}
-% \mathbf{y}(t) = (\mathbf{x} \ast \boldsymbol{\phi}_T)(t) = s \mathbf{x}(t) + (1-s) \mathbf{y}(t - \tau).
-% \end{equation}
-% The weight $s$ in the equation above is equal to
-% \begin{equation}
-% s = \sqrt{1 - \cos \dfrac{2\pi \tau}{T}} \left(\sqrt{3 - \cos \dfrac{2\pi \tau}{T}} - \sqrt{1 - \cos \dfrac{2\pi \tau}{T}} \right).
-% \end{equation}
-% \end{prop*}
-
-\begin{proof}
-Let $\omega_0^2 = 2 \left(1 - \cos \frac{2\pi \tau}{T}\right)$.
-Proposition \ref{prop:temporal-integration} yields
-$\omega_0^2 = \frac{s^2}{(1-s)}$, and thus the quadratic equation
-$s^2 + \omega_0^2 s - \omega_0^2 = 0$.
-Its discriminant is $\Delta = \omega_0^4 + 4 \times \omega_0^2 = \omega_0^2 (\omega_0^2 + 4) > 0$, and its two real-valued roots are
-\begin{equation}
-s = \frac{- \omega_0^2 \pm \omega_0 \sqrt{\omega_0^2 +4}}{2}
-= \frac{\omega_0}{2} \left(\pm\sqrt{\omega_0^2 + 4} - \omega_0\right)
-\end{equation}
-We retain the positive root $s > 0$. Replacing $\omega_0$ by its definition in the above completes the proof.
-\end{proof}
-
-
-\subsection{Proof of Proposition \ref{prop:invariance} on invariance to impedance curve}
-
-\begin{prop*}
-Let $\mathbf{s}(t)$ a realization of AWGN with null mean and unit variance.
-Let $\mathbf{a}(t) > 0$ a deterministic amplitude envelope $\mathbf{h}(t)$ a filter.
-Let $\mathbf{E}_\mathbf{x}(t,f)$ the mel-frequency spectrogram associated to the source-filter model $\mathbf{x}(t) = \mathbf{a}(t) \times (\mathbf{s}\ast\mathbf{h})(t)$.
-If
-\begin{enumerate}
-\item $\forall t_0,\; \dfrac{\mathrm{d}\log a}{\mathrm{d}t} (t_0) \ll \dfrac{1}{T}$,
-\item $\forall t_0,\; \int_{t_0}^{t_0+\tau} \mathbf{h}(t)\;\mathrm{d}t \ll \dfrac{1}{\tau}$, and
-\item $\forall f_0,\; \dfrac{\mathrm{d}\log \vert \widehat{\mathbf{h}}\vert}{\mathrm{d}f}(f_0) \ll
-%\dfrac{1}{\mathrm{mel}^{-1}\left(\mathrm{mel}(f_0) \pm \dfrac{\mathrm{mel}(f_{\max}) - \mathrm{mel}(f_{\min})}{N}\right)}
-\dfrac{1}{\Delta f_0},
-$
-\end{enumerate}
-where $\Delta f_0$ is the frequency interval between $f_0$ and its adjacent subbands on the mel scale,
-then $\mathbf{PCEN_x}(t,f) \approx \mathbf{PCEN_s}(t,f)$.
-\end{prop*}
-
-\begin{proof}
-We adapt a result from \cite{anden2014taslp}.
-The mel-frequency spectrogram $\mathbf{E}_{\mathbf{x}}(t,f)$ can be defined as the complex modulus of the convolution between the signal $\mathbf{x}(t)$ and a filterbank $\mathbf{\psi}_{f} (t)$ of $N$ whose center frequencies $f$ are tuned to the mel scale, ranging betweeen $f_{\min}$ and $f_{\max}$.
-For a given $f$, the first hypothesis allows to factorize the amplitude envelope $\mathbf{a}(t)$ out of the convolution $(\mathbf{s}\ast\mathbf{h}\ast\boldsymbol{\psi}_f)(t)$
-Furthermore, one has:
-\begin{align}
-\mathbf{E}_{(\mathbf{s}\ast\mathbf{h})} (t,f) & =
-\vert \mathbf{s} \ast \mathbf{h} \ast \boldsymbol{\psi}_f \vert (t)
-\nonumber \\
-& = \dfrac{1}{2\pi} \left \vert \int_{\mathbb{R}} \widehat{\mathbf{s}}(\omega) \widehat{\mathbf{h}}(\omega) \widehat{\boldsymbol{\psi}_f}(\omega) \exp(2 \pi \mathrm{i} \omega t) \;\mathrm{d}t \right \vert.
-\end{align}
-The second and third hypotheses allow to approximate $\widehat{\mathbf{h}}(\omega)$ by $\widehat{\mathbf{h}}(f)$ in the equation above.
-This approximation leads to $\mathbf{E}_{(\mathbf{s}\ast\mathbf{h})} (t,f) \approx \vert\widehat{\mathbf{h}}\vert (f) \mathbf{E}_{\mathbf{s}} (t,f)$.
-Combining the factorization of the amplitude term $\mathbf{a}(t)$ with the factorization of the filter $\vert\mathbf{h}\vert(\omega)$ leads to an approximation of the form:
-\begin{align}
-\vert \mathbf{E}_\mathbf{x}(t,f) - \mathbf{a}(t) \vert\widehat{\mathbf{h}}\vert(f) \mathbf{E}_\mathbf{s}(t,f) \vert = \boldsymbol{\eta}(t,f).
-\end{align}
-An upper bound on the expectation of the stochastic residual $\boldsymbol{\eta}$ is given in \cite[Appendix]{anden2014taslp}.
-Likewise, the first hypothesis allows to approximate $\mathbf{M}_\mathbf{x}(t,f)$ by $\mathbf{a}(t) \vert \widehat{\mathbf{h}}(f) \vert \mathbf{M}_s(t,f)$ with a stochastic residual term $\mathbf{\nu}(t,f)$ of bounded expectation.
-In the active regime ($\mathbf{M}\gg\varepsilon$), AGC cancels $\mathbf{a}(t)$ and $\vert\widehat{h}(f)\vert$ in Equation \ref{eq:gain-control}.
-Thus, Proposition \ref{prop:gain-control} leads to the inequality
-\begin{equation}
-\vert \mathbf{G}_\mathrm{x} - \mathbf{G}_{\mathrm{s}} \vert (t,f)\leq
-\dfrac{\boldsymbol{\eta}(t,f)}{(\varepsilon + \mathbf{M}_{\mathbf{s}}(t,f))^\alpha} + \dfrac{\alpha \boldsymbol{\nu}(t,f)}{(\varepsilon+\mathbf{M}_\mathbf{s} (t,f))^{1+\alpha}}.
-\label{eq:G-approx}
-\end{equation}
-Because $\delta > 1$ and $r \geq 1$, DRC is nonexpansive (see Proposition \ref{prop:loudness-compression}).
-Therefore, it maps each member of the approximate equality $\mathbf{G}_\mathbf{x} (t,f) \approx \mathbf{G}_\mathbf{s}(t,f)$ to $\mathbf{PCEN}_\mathbf{x} (t,f) \approx \mathbf{PCEN}_\mathbf{s}(t,f)$ while reducing the expectation of the residual (right-hand side of Equation \ref{eq:G-approx}), which completes the proof.
-\end{proof}
-
 % that's all folks
 \end{document}
 
@@ -1194,7 +935,7 @@ Therefore, it maps each member of the approximate equality $\mathbf{G}_\mathbf{x
 %\begin{figure}[!t]
 %\centering
 %\includegraphics[width=2.5in]{myfigure}
-% where an .eps filename suffix will be assumed under latex,
+% where an .eps filename suffix will be assumed under latex, 
 % and a .pdf suffix will be assumed for pdflatex; or what has been declared
 % via \DeclareGraphicsExtensions.
 %\caption{Simulation results for the network.}
@@ -1210,7 +951,7 @@ Therefore, it maps each member of the approximate equality $\mathbf{G}_\mathbf{x
 % The subfigure \label commands are set within each subfloat command,
 % and the \label for the overall figure must come after \caption.
 % \hfil is used as a separator to get equal spacing.
-% Watch out that the combined width of all the subfigures on a
+% Watch out that the combined width of all the subfigures on a 
 % line do not exceed the text width or a line break will occur.
 %
 
@@ -1258,7 +999,7 @@ Therefore, it maps each member of the approximate equality $\mathbf{G}_\mathbf{x
 % in-text middle ("here") positioning is typically not used, but it
 % is allowed and encouraged for Computer Society conferences (but
 % not Computer Society journals). Most IEEE journals/conferences use
-% top floats exclusively.
+% top floats exclusively. 
 % Note that, LaTeX2e, unlike IEEE journals/conferences, places
 % footnotes above bottom floats. This can be corrected via the
 % \fnbelowfloat command of the stfloats package.

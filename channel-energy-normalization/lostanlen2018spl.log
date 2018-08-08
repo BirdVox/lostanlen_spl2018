@@ -1,0 +1,1656 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 JUL 2018 12:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**lostanlen2018spl.tex
+(./lostanlen2018spl.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen128
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen129
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen130
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks17
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks18
+\eqnshift@=\dimen131
+\alignsep@=\dimen132
+\tagshift@=\dimen133
+\tagwidth@=\dimen134
+\totwidth@=\dimen135
+\lineht@=\dimen136
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen137
+\extrarowheight=\dimen138
+\NC@list=\toks21
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen139
+\captionmargin@=\dimen140
+\captionwidth=\dimen141
+\caption@tempdima=\dimen142
+\caption@indent=\dimen143
+\caption@parindent=\dimen144
+\caption@hangindent=\dimen145
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+\c@KVtest=\count107
+\sf@farskip=\skip49
+\sf@captopadj=\dimen146
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count108
+\c@subfigure@save=\count109
+\c@lofdepth=\count110
+\c@subtable=\count111
+\c@subtable@save=\count112
+\c@lotdepth=\count113
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks27
+)
+\c@thm=\count114
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/05/13 L3 programming layer (loader) 
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2017/05/13 L3 programming layer (code)
+\c_max_int=\count115
+\l_tmpa_int=\count116
+\l_tmpb_int=\count117
+\g_tmpa_int=\count118
+\g_tmpb_int=\count119
+\g__prg_map_int=\count120
+\c_log_iow=\count121
+\l_iow_line_count_int=\count122
+\l__iow_line_target_int=\count123
+\l__iow_one_indent_int=\count124
+\l__iow_indent_int=\count125
+\c_zero_dim=\dimen147
+\c_max_dim=\dimen148
+\l_tmpa_dim=\dimen149
+\l_tmpb_dim=\dimen150
+\g_tmpa_dim=\dimen151
+\g_tmpb_dim=\dimen152
+\c_zero_skip=\skip57
+\c_max_skip=\skip58
+\l_tmpa_skip=\skip59
+\l_tmpb_skip=\skip60
+\g_tmpa_skip=\skip61
+\g_tmpb_skip=\skip62
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count126
+\c__fp_leading_shift_int=\count127
+\c__fp_middle_shift_int=\count128
+\c__fp_trailing_shift_int=\count129
+\c__fp_big_leading_shift_int=\count130
+\c__fp_big_middle_shift_int=\count131
+\c__fp_big_trailing_shift_int=\count132
+\c__fp_Bigg_leading_shift_int=\count133
+\c__fp_Bigg_middle_shift_int=\count134
+\c__fp_Bigg_trailing_shift_int=\count135
+\c__fp_rand_size_int=\count136
+\c__fp_rand_four_int=\count137
+\c__fp_rand_eight_int=\count138
+\l__sort_length_int=\count139
+\l__sort_min_int=\count140
+\l__sort_top_int=\count141
+\l__sort_max_int=\count142
+\l__sort_true_max_int=\count143
+\l__sort_block_int=\count144
+\l__sort_begin_int=\count145
+\l__sort_end_int=\count146
+\l__sort_A_int=\count147
+\l__sort_B_int=\count148
+\l__sort_C_int=\count149
+\c_empty_box=\box30
+\l_tmpa_box=\box31
+\l_tmpb_box=\box32
+\g_tmpa_box=\box33
+\g_tmpb_box=\box34
+\l__box_top_dim=\dimen153
+\l__box_bottom_dim=\dimen154
+\l__box_left_dim=\dimen155
+\l__box_right_dim=\dimen156
+\l__box_top_new_dim=\dimen157
+\l__box_bottom_new_dim=\dimen158
+\l__box_left_new_dim=\dimen159
+\l__box_right_new_dim=\dimen160
+\l__box_internal_box=\box35
+\l__coffin_internal_box=\box36
+\l__coffin_internal_dim=\dimen161
+\l__coffin_offset_x_dim=\dimen162
+\l__coffin_offset_y_dim=\dimen163
+\l__coffin_x_dim=\dimen164
+\l__coffin_y_dim=\dimen165
+\l__coffin_x_prime_dim=\dimen166
+\l__coffin_y_prime_dim=\dimen167
+\c_empty_coffin=\box37
+\l__coffin_aligned_coffin=\box38
+\l__coffin_aligned_internal_coffin=\box39
+\l_tmpa_coffin=\box40
+\l_tmpb_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen168
+\l__coffin_display_x_dim=\dimen169
+\l__coffin_display_y_dim=\dimen170
+\l__coffin_bounding_shift_dim=\dimen171
+\l__coffin_left_corner_dim=\dimen172
+\l__coffin_right_corner_dim=\dimen173
+\l__coffin_bottom_corner_dim=\dimen174
+\l__coffin_top_corner_dim=\dimen175
+\l__coffin_scaled_total_height_dim=\dimen176
+\l__coffin_scaled_width_dim=\dimen177
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count150
+\l__driver_tmp_box=\box45
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2017/05/13 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count151
+\g__xparse_grabber_int=\count152
+\l__xparse_m_args_int=\count153
+\l__xparse_mandatory_args_int=\count154
+\l__xparse_v_nesting_int=\count155
+)
+Package: siunitx 2017/05/19 v2.7g A comprehensive (SI) units package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2017/05/13 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box46
+\l__siunitx_tmp_dim=\dimen178
+\l__siunitx_tmp_int=\count156
+\l__siunitx_number_mantissa_length_int=\count157
+\l__siunitx_number_uncert_length_int=\count158
+\l__siunitx_round_int=\count159
+\l__siunitx_process_decimal_int=\count160
+\l__siunitx_process_uncertainty_int=\count161
+\l__siunitx_process_fixed_int=\count162
+\l__siunitx_process_integer_min_int=\count163
+\l__siunitx_process_precision_int=\count164
+\l__siunitx_group_min_int=\count165
+\l__siunitx_angle_marker_box=\box47
+\l__siunitx_angle_unit_box=\box48
+\l__siunitx_angle_marker_dim=\dimen179
+\l__siunitx_angle_unit_dim=\dimen180
+\l__siunitx_unit_int=\count166
+\l__siunitx_unit_denominator_int=\count167
+\l__siunitx_unit_numerator_int=\count168
+\l__siunitx_unit_prefix_int=\count169
+\l__siunitx_unit_prefix_base_int=\count170
+\l__siunitx_unit_prefix_gram_int=\count171
+\l__siunitx_number_product_int=\count172
+\c__siunitx_one_fill_skip=\skip63
+\l__siunitx_table_unit_align_skip=\skip64
+\l__siunitx_table_exponent_dim=\dimen181
+\l__siunitx_table_integer_dim=\dimen182
+\l__siunitx_table_mantissa_dim=\dimen183
+\l__siunitx_table_marker_dim=\dimen184
+\l__siunitx_table_result_dim=\dimen185
+\l__siunitx_table_uncert_dim=\dimen186
+\l__siunitx_table_fill_pre_dim=\dimen187
+\l__siunitx_table_fill_post_dim=\dimen188
+\l__siunitx_table_fill_mid_dim=\dimen189
+\l__siunitx_table_pre_box=\box49
+\l__siunitx_table_post_box=\box50
+\l__siunitx_table_mantissa_box=\box51
+\l__siunitx_table_result_box=\box52
+\l__siunitx_table_number_align_skip=\skip65
+\l__siunitx_table_text_align_skip=\skip66
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7251.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7254.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7257.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7260.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7263.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7266.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7269.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7284.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7293.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7302.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7311.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7323.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7335.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7347.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7350.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7365.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7377.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7424.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7426.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7428.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7430.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7432.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7433.
+.................................................
+\g__file_internal_ior=\read1
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-lang
+uage-mappings.tex)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip67
+\enit@outerparindent=\dimen190
+\enit@toks=\toks28
+\enit@inbox=\box53
+\enitdp@description=\count173
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count174
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box54
+)
+\tc@llx=\dimen191
+\tc@lly=\dimen192
+\tc@urx=\dimen193
+\tc@ury=\dimen194
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen195
+\adjbox@Height=\dimen196
+\adjbox@Depth=\dimen197
+\adjbox@Totalheight=\dimen198
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count175
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box55
+\sift@deathcycles=\count176
+\@vwid@loff=\dimen199
+\@vwid@roff=\dimen256
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2017/02/13 v4.01\ Stacking text and objects in convenient 
+ways
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count177
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/listofitems/listofitems.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/listofitems/listofitems.tex
+\loi_nestcnt=\count178
+)
+Package: listofitems 2016/11/18 v1.3 Grab items in lists using user-specified s
+ep char
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count179
+\calc@Bcount=\count180
+\calc@Adimen=\dimen257
+\calc@Bdimen=\dimen258
+\calc@Askip=\skip68
+\calc@Bskip=\skip69
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count181
+\calc@Cskip=\skip70
+)
+\c@@stackindex=\count182
+\@boxshift=\skip71
+\stack@tmplength=\skip72
+\temp@stkl=\skip73
+\@stackedboxwidth=\skip74
+\@addedbox=\box56
+\@anchorbox=\box57
+\stackedbox=\box58
+\@centerbox=\box59
+\c@ROWcellindex@=\count183
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
+\MT@toks=\toks31
+\MT@count=\count184
+LaTeX Info: Redefining \textls on input line 774.
+\MT@outer@kern=\dimen259
+LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
+\MT@listname@count=\count185
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 916.
+LaTeX Info: Redefining \lslig on input line 916.
+\MT@outer@space=\skip75
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
+))
+(./lostanlen2018spl.aux)
+\openout1 = `lostanlen2018spl.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 379.
+LaTeX Font Info:    ... okay on input line 379.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 379.
+LaTeX Font Info:    ... okay on input line 379.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 379.
+LaTeX Font Info:    ... okay on input line 379.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 379.
+LaTeX Font Info:    ... okay on input line 379.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 379.
+LaTeX Font Info:    ... okay on input line 379.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 379.
+LaTeX Font Info:    ... okay on input line 379.
+
+-- Lines per column: 58 (exact).
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count186
+\scratchdimen=\dimen260
+\scratchbox=\box60
+\nofMPsegments=\count187
+\nofMParguments=\count188
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count189
+\MPscratchDim=\dimen261
+\MPnumerator=\count190
+\makeMPintoPDFobject=\count191
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-basic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/05/19 v2.7g siunitx: Abbreviated units
+)
+LaTeX Info: Redefining \microtypecontext on input line 379.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\c__siunitx_mathsf_int=\count192
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 37
+9.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 37
+9.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 37
+9.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 37
+9.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 379.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 379.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\c__siunitx_mathtt_int=\count193
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package epstopdf Info: Source file: <logE_spectrogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 530590 bytes
+(epstopdf)             Output file: <logE_spectrogram-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:11
+(epstopdf)                    size: 74124 bytes
+(epstopdf)             Command: <repstopdf --outfile=logE_spectrogram-eps-conve
+rted-to.pdf logE_spectrogram.eps>
+(epstopdf)             \includegraphics on input line 523.
+runsystem(repstopdf --outfile=logE_spectrogram-eps-converted-to.pdf logE_spectr
+ogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <logE_spectrogram-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:45
+(epstopdf)                    size: 74124 bytes.
+
+<logE_spectrogram-eps-converted-to.pdf, id=1, 853.1875pt x 179.67125pt>
+File: logE_spectrogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use logE_spectrogram-eps-converted-to.pdf>
+Package pdftex.def Info: logE_spectrogram-eps-converted-to.pdf used on input li
+ne 523.
+(pdftex.def)             Requested size: 252.0pt x 53.06834pt.
+Package epstopdf Info: Source file: <PCEN_spectrogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 528010 bytes
+(epstopdf)             Output file: <PCEN_spectrogram-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:11
+(epstopdf)                    size: 82052 bytes
+(epstopdf)             Command: <repstopdf --outfile=PCEN_spectrogram-eps-conve
+rted-to.pdf PCEN_spectrogram.eps>
+(epstopdf)             \includegraphics on input line 526.
+runsystem(repstopdf --outfile=PCEN_spectrogram-eps-converted-to.pdf PCEN_spectr
+ogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <PCEN_spectrogram-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:45
+(epstopdf)                    size: 82052 bytes.
+
+<PCEN_spectrogram-eps-converted-to.pdf, id=2, 853.1875pt x 179.67125pt>
+File: PCEN_spectrogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PCEN_spectrogram-eps-converted-to.pdf>
+Package pdftex.def Info: PCEN_spectrogram-eps-converted-to.pdf used on input li
+ne 526.
+(pdftex.def)             Requested size: 252.0pt x 53.06834pt.
+ [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./logE_spectrogram-eps-converted-to.pdf> <./PCEN_spectrogram-eps-converted-to
+.pdf>]
+Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19009 bytes
+(epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:13
+(epstopdf)                    size: 4211 bytes
+(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
+eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=SONYC-pcen_logE_histogram-eps-converted-to.pdf SO
+NYC-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <SONYC-pcen_logE_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:46
+(epstopdf)                    size: 4211 bytes.
+
+<SONYC-pcen_logE_histogram-eps-converted-to.pdf, id=73, 245.91875pt x 675.52374
+pt>
+File: SONYC-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
+ <use SONYC-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
+ input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19009 bytes
+(epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:46
+(epstopdf)                    size: 4211 bytes
+(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
+eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=SONYC-pcen_logE_histogram-eps-converted-to.pdf SO
+NYC-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <SONYC-pcen_logE_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:47
+(epstopdf)                    size: 4211 bytes.
+File: SONYC-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SONYC-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
+ input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19009 bytes
+(epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:47
+(epstopdf)                    size: 4211 bytes
+(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
+eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=SONYC-pcen_logE_histogram-eps-converted-to.pdf SO
+NYC-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <SONYC-pcen_logE_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:47
+(epstopdf)                    size: 4211 bytes.
+File: SONYC-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SONYC-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
+ input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 18967 bytes
+(epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:15
+(epstopdf)                    size: 4216 bytes
+(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
+ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=DCASE2013-pcen_logE_histogram-eps-converted-to.pd
+f DCASE2013-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <DCASE2013-pcen_logE_histogram-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:48
+(epstopdf)                    size: 4216 bytes.
+
+<DCASE2013-pcen_logE_histogram-eps-converted-to.pdf, id=77, 245.91875pt x 675.5
+2374pt>
+File: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use DCASE2013-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
+d on input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 18967 bytes
+(epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:48
+(epstopdf)                    size: 4216 bytes
+(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
+ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=DCASE2013-pcen_logE_histogram-eps-converted-to.pd
+f DCASE2013-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <DCASE2013-pcen_logE_histogram-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:48
+(epstopdf)                    size: 4216 bytes.
+File: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf
+)
+
+<use DCASE2013-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
+d on input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 18967 bytes
+(epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:48
+(epstopdf)                    size: 4216 bytes
+(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
+ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=DCASE2013-pcen_logE_histogram-eps-converted-to.pd
+f DCASE2013-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <DCASE2013-pcen_logE_histogram-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:49
+(epstopdf)                    size: 4216 bytes.
+File: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf
+)
+
+<use DCASE2013-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
+d on input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19131 bytes
+(epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:16
+(epstopdf)                    size: 4132 bytes
+(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
+m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=BirdVox-pcen_logE_histogram-eps-converted-to.pdf 
+BirdVox-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <BirdVox-pcen_logE_histogram-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:49
+(epstopdf)                    size: 4132 bytes.
+
+<BirdVox-pcen_logE_histogram-eps-converted-to.pdf, id=81, 245.91875pt x 675.523
+74pt>
+File: BirdVox-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
+ <use BirdVox-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: BirdVox-pcen_logE_histogram-eps-converted-to.pdf used 
+on input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19131 bytes
+(epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:49
+(epstopdf)                    size: 4132 bytes
+(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
+m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=BirdVox-pcen_logE_histogram-eps-converted-to.pdf 
+BirdVox-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <BirdVox-pcen_logE_histogram-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:50
+(epstopdf)                    size: 4132 bytes.
+File: BirdVox-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use BirdVox-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: BirdVox-pcen_logE_histogram-eps-converted-to.pdf used 
+on input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19131 bytes
+(epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:50
+(epstopdf)                    size: 4132 bytes
+(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
+m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
+(epstopdf)             \includegraphics on input line 587.
+runsystem(repstopdf --outfile=BirdVox-pcen_logE_histogram-eps-converted-to.pdf 
+BirdVox-pcen_logE_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <BirdVox-pcen_logE_histogram-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:50
+(epstopdf)                    size: 4132 bytes.
+File: BirdVox-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use BirdVox-pcen_logE_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: BirdVox-pcen_logE_histogram-eps-converted-to.pdf used 
+on input line 587.
+(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
+
+Overfull \hbox (4.4815pt too wide) in paragraph at lines 587--598
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <SONYC-pcen_PCEN_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19023 bytes
+(epstopdf)             Output file: <SONYC-pcen_PCEN_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:17
+(epstopdf)                    size: 4195 bytes
+(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_PCEN_histogram-
+eps-converted-to.pdf SONYC-pcen_PCEN_histogram.eps>
+(epstopdf)             \includegraphics on input line 602.
+runsystem(repstopdf --outfile=SONYC-pcen_PCEN_histogram-eps-converted-to.pdf SO
+NYC-pcen_PCEN_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <SONYC-pcen_PCEN_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:51
+(epstopdf)                    size: 4195 bytes.
+
+<SONYC-pcen_PCEN_histogram-eps-converted-to.pdf, id=85, 245.91875pt x 675.52374
+pt>
+File: SONYC-pcen_PCEN_histogram-eps-converted-to.pdf Graphic file (type pdf)
+ <use SONYC-pcen_PCEN_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: SONYC-pcen_PCEN_histogram-eps-converted-to.pdf used on
+ input line 602.
+(pdftex.def)             Requested size: 83.16046pt x 26.38219pt.
+Package epstopdf Info: Source file: <DCASE2013-pcen_PCEN_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19029 bytes
+(epstopdf)             Output file: <DCASE2013-pcen_PCEN_histogram-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:17
+(epstopdf)                    size: 4201 bytes
+(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_PCEN_histog
+ram-eps-converted-to.pdf DCASE2013-pcen_PCEN_histogram.eps>
+(epstopdf)             \includegraphics on input line 602.
+runsystem(repstopdf --outfile=DCASE2013-pcen_PCEN_histogram-eps-converted-to.pd
+f DCASE2013-pcen_PCEN_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <DCASE2013-pcen_PCEN_histogram-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:51
+(epstopdf)                    size: 4201 bytes.
+
+<DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf, id=87, 245.91875pt x 675.5
+2374pt>
+File: DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf use
+d on input line 602.
+(pdftex.def)             Requested size: 83.16046pt x 26.38219pt.
+Package epstopdf Info: Source file: <BirdVox-pcen_PCEN_histogram.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 19095 bytes
+(epstopdf)             Output file: <BirdVox-pcen_PCEN_histogram-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:18
+(epstopdf)                    size: 4166 bytes
+(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_PCEN_histogra
+m-eps-converted-to.pdf BirdVox-pcen_PCEN_histogram.eps>
+(epstopdf)             \includegraphics on input line 602.
+runsystem(repstopdf --outfile=BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf 
+BirdVox-pcen_PCEN_histogram.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <BirdVox-pcen_PCEN_histogram-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:52
+(epstopdf)                    size: 4166 bytes.
+
+<BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf, id=89, 245.91875pt x 675.523
+74pt>
+File: BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf Graphic file (type pdf)
+ <use BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf used 
+on input line 602.
+(pdftex.def)             Requested size: 83.16046pt x 26.38219pt.
+
+Overfull \hbox (4.4815pt too wide) in paragraph at lines 602--607
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288604 bytes
+(epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:19
+(epstopdf)                    size: 15008 bytes
+(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
+-eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=SONYC-pcen_logE_covariance-eps-converted-to.pdf S
+ONYC-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <SONYC-pcen_logE_covariance-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:52
+(epstopdf)                    size: 15008 bytes.
+
+<SONYC-pcen_logE_covariance-eps-converted-to.pdf, id=91, 239.89626pt x 239.8962
+6pt>
+File: SONYC-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
+ <use SONYC-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
+n input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288604 bytes
+(epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:52
+(epstopdf)                    size: 15008 bytes
+(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
+-eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=SONYC-pcen_logE_covariance-eps-converted-to.pdf S
+ONYC-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <SONYC-pcen_logE_covariance-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:53
+(epstopdf)                    size: 15008 bytes.
+File: SONYC-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SONYC-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
+n input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288604 bytes
+(epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:53
+(epstopdf)                    size: 15008 bytes
+(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
+-eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=SONYC-pcen_logE_covariance-eps-converted-to.pdf S
+ONYC-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <SONYC-pcen_logE_covariance-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:53
+(epstopdf)                    size: 15008 bytes.
+File: SONYC-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SONYC-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
+n input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288608 bytes
+(epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:21
+(epstopdf)                    size: 11736 bytes
+(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
+ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=DCASE2013-pcen_logE_covariance-eps-converted-to.p
+df DCASE2013-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <DCASE2013-pcen_logE_covariance-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:54
+(epstopdf)                    size: 11736 bytes.
+
+<DCASE2013-pcen_logE_covariance-eps-converted-to.pdf, id=92, 239.89626pt x 239.
+89626pt>
+File: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use DCASE2013-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
+ed on input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288608 bytes
+(epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:54
+(epstopdf)                    size: 11736 bytes
+(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
+ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=DCASE2013-pcen_logE_covariance-eps-converted-to.p
+df DCASE2013-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <DCASE2013-pcen_logE_covariance-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:54
+(epstopdf)                    size: 11736 bytes.
+File: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pd
+f)
+
+<use DCASE2013-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
+ed on input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288608 bytes
+(epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:54
+(epstopdf)                    size: 11736 bytes
+(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
+ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=DCASE2013-pcen_logE_covariance-eps-converted-to.p
+df DCASE2013-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <DCASE2013-pcen_logE_covariance-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:55
+(epstopdf)                    size: 11736 bytes.
+File: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pd
+f)
+
+<use DCASE2013-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
+ed on input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288606 bytes
+(epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:22
+(epstopdf)                    size: 27716 bytes
+(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
+ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=BirdVox-pcen_logE_covariance-eps-converted-to.pdf
+ BirdVox-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <BirdVox-pcen_logE_covariance-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:55
+(epstopdf)                    size: 27716 bytes.
+
+<BirdVox-pcen_logE_covariance-eps-converted-to.pdf, id=93, 239.89626pt x 239.89
+626pt>
+File: BirdVox-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use BirdVox-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: BirdVox-pcen_logE_covariance-eps-converted-to.pdf used
+ on input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288606 bytes
+(epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:55
+(epstopdf)                    size: 27716 bytes
+(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
+ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=BirdVox-pcen_logE_covariance-eps-converted-to.pdf
+ BirdVox-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <BirdVox-pcen_logE_covariance-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:56
+(epstopdf)                    size: 27716 bytes.
+File: BirdVox-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
+
+
+<use BirdVox-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: BirdVox-pcen_logE_covariance-eps-converted-to.pdf used
+ on input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288606 bytes
+(epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:56
+(epstopdf)                    size: 27716 bytes
+(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
+ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
+(epstopdf)             \includegraphics on input line 620.
+runsystem(repstopdf --outfile=BirdVox-pcen_logE_covariance-eps-converted-to.pdf
+ BirdVox-pcen_logE_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <BirdVox-pcen_logE_covariance-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:56
+(epstopdf)                    size: 27716 bytes.
+File: BirdVox-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
+
+
+<use BirdVox-pcen_logE_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: BirdVox-pcen_logE_covariance-eps-converted-to.pdf used
+ on input line 620.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+
+Overfull \hbox (7.98157pt too wide) in paragraph at lines 620--621
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <SONYC-pcen_PCEN_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288604 bytes
+(epstopdf)             Output file: <SONYC-pcen_PCEN_covariance-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:23
+(epstopdf)                    size: 18625 bytes
+(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_PCEN_covariance
+-eps-converted-to.pdf SONYC-pcen_PCEN_covariance.eps>
+(epstopdf)             \includegraphics on input line 625.
+runsystem(repstopdf --outfile=SONYC-pcen_PCEN_covariance-eps-converted-to.pdf S
+ONYC-pcen_PCEN_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <SONYC-pcen_PCEN_covariance-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:57
+(epstopdf)                    size: 18625 bytes.
+
+<SONYC-pcen_PCEN_covariance-eps-converted-to.pdf, id=94, 239.89626pt x 239.8962
+6pt>
+File: SONYC-pcen_PCEN_covariance-eps-converted-to.pdf Graphic file (type pdf)
+ <use SONYC-pcen_PCEN_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: SONYC-pcen_PCEN_covariance-eps-converted-to.pdf used o
+n input line 625.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <DCASE2013-pcen_PCEN_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288608 bytes
+(epstopdf)             Output file: <DCASE2013-pcen_PCEN_covariance-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:23
+(epstopdf)                    size: 15115 bytes
+(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_PCEN_covari
+ance-eps-converted-to.pdf DCASE2013-pcen_PCEN_covariance.eps>
+(epstopdf)             \includegraphics on input line 625.
+runsystem(repstopdf --outfile=DCASE2013-pcen_PCEN_covariance-eps-converted-to.p
+df DCASE2013-pcen_PCEN_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <DCASE2013-pcen_PCEN_covariance-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:58
+(epstopdf)                    size: 15115 bytes.
+
+<DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf, id=95, 239.89626pt x 239.
+89626pt>
+File: DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf us
+ed on input line 625.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+Package epstopdf Info: Source file: <BirdVox-pcen_PCEN_covariance.eps>
+(epstopdf)                    date: 2018-07-20 14:53:12
+(epstopdf)                    size: 288606 bytes
+(epstopdf)             Output file: <BirdVox-pcen_PCEN_covariance-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:24
+(epstopdf)                    size: 22301 bytes
+(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_PCEN_covarian
+ce-eps-converted-to.pdf BirdVox-pcen_PCEN_covariance.eps>
+(epstopdf)             \includegraphics on input line 625.
+runsystem(repstopdf --outfile=BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf
+ BirdVox-pcen_PCEN_covariance.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <BirdVox-pcen_PCEN_covariance-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-07-20 12:29:58
+(epstopdf)                    size: 22301 bytes.
+
+<BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf, id=96, 239.89626pt x 239.89
+626pt>
+File: BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf>
+Package pdftex.def Info: BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf used
+ on input line 625.
+(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
+
+Overfull \hbox (7.98157pt too wide) in paragraph at lines 625--627
+ [][] 
+ []
+
+[2 <./SONYC-pcen_logE_histogram-eps-converted-to.pdf> <./DCASE2013-pcen_logE_hi
+stogram-eps-converted-to.pdf> <./BirdVox-pcen_logE_histogram-eps-converted-to.p
+df> <./SONYC-pcen_PCEN_histogram-eps-converted-to.pdf> <./DCASE2013-pcen_PCEN_h
+istogram-eps-converted-to.pdf> <./BirdVox-pcen_PCEN_histogram-eps-converted-to.
+pdf> <./SONYC-pcen_logE_covariance-eps-converted-to.pdf> <./DCASE2013-pcen_logE
+_covariance-eps-converted-to.pdf> <./BirdVox-pcen_logE_covariance-eps-converted
+-to.pdf> <./SONYC-pcen_PCEN_covariance-eps-converted-to.pdf> <./DCASE2013-pcen_
+PCEN_covariance-eps-converted-to.pdf> <./BirdVox-pcen_PCEN_covariance-eps-conve
+rted-to.pdf>] <frequency_response_T_20.png, id=136, 258.9434pt x 260.24426pt>
+File: frequency_response_T_20.png Graphic file (type png)
+
+<use frequency_response_T_20.png>
+Package pdftex.def Info: frequency_response_T_20.png used on input line 664.
+(pdftex.def)             Requested size: 82.74504pt x 83.16046pt.
+
+<frequency_response_T_200.png, id=138, 231.55309pt x 260.24426pt>
+File: frequency_response_T_200.png Graphic file (type png)
+
+<use frequency_response_T_200.png>
+Package pdftex.def Info: frequency_response_T_200.png used on input line 665.
+(pdftex.def)             Requested size: 73.9925pt x 83.16046pt.
+
+<frequency_response_T_2000.png, id=139, 231.55309pt x 260.24426pt>
+File: frequency_response_T_2000.png Graphic file (type png)
+
+<use frequency_response_T_2000.png>
+Package pdftex.def Info: frequency_response_T_2000.png used on input line 666.
+(pdftex.def)             Requested size: 73.9925pt x 83.16046pt.
+
+<frequency_response_legend.png, id=140, 1156.03091pt x 54.13023pt>
+File: frequency_response_legend.png Graphic file (type png)
+
+<use frequency_response_legend.png>
+Package pdftex.def Info: frequency_response_legend.png used on input line 668.
+(pdftex.def)             Requested size: 303.82428pt x 14.22636pt.
+
+Overfull \hbox (51.82428pt too wide) in paragraph at lines 664--676
+ [] 
+ []
+
+<bode_renorm_0_1.png, id=141, 271.51839pt x 260.24426pt>
+File: bode_renorm_0_1.png Graphic file (type png)
+
+<use bode_renorm_0_1.png>
+Package pdftex.def Info: bode_renorm_0_1.png used on input line 711.
+(pdftex.def)             Requested size: 86.76335pt x 83.16046pt.
+
+<bode_renorm_0_5.png, id=142, 244.12807pt x 260.24426pt>
+File: bode_renorm_0_5.png Graphic file (type png)
+
+<use bode_renorm_0_5.png>
+Package pdftex.def Info: bode_renorm_0_5.png used on input line 713.
+(pdftex.def)             Requested size: 78.01082pt x 83.16046pt.
+
+<bode_renorm_1_0.png, id=143, 244.12807pt x 260.24426pt>
+File: bode_renorm_1_0.png Graphic file (type png)
+
+<use bode_renorm_1_0.png>
+Package pdftex.def Info: bode_renorm_1_0.png used on input line 715.
+(pdftex.def)             Requested size: 78.01082pt x 83.16046pt.
+
+<bode_compressor_legend.png, id=144, 1156.03091pt x 54.13023pt>
+File: bode_compressor_legend.png Graphic file (type png)
+
+<use bode_compressor_legend.png>
+Package pdftex.def Info: bode_compressor_legend.png used on input line 717.
+(pdftex.def)             Requested size: 303.82428pt x 14.22636pt.
+
+Overfull \hbox (51.82428pt too wide) in paragraph at lines 710--721
+ [] 
+ []
+
+<bode_compressor_0_2.png, id=145, 283.00932pt x 260.24426pt>
+File: bode_compressor_0_2.png Graphic file (type png)
+
+<use bode_compressor_0_2.png>
+Package pdftex.def Info: bode_compressor_0_2.png used on input line 747.
+(pdftex.def)             Requested size: 90.43527pt x 83.16046pt.
+
+<bode_compressor_0_5.png, id=146, 223.16975pt x 260.24426pt>
+File: bode_compressor_0_5.png Graphic file (type png)
+
+<use bode_compressor_0_5.png>
+Package pdftex.def Info: bode_compressor_0_5.png used on input line 748.
+(pdftex.def)             Requested size: 71.31361pt x 83.16046pt.
+
+<bode_compressor_0_8.png, id=147, 223.16975pt x 260.24426pt>
+File: bode_compressor_0_8.png Graphic file (type png)
+
+<use bode_compressor_0_8.png>
+Package pdftex.def Info: bode_compressor_0_8.png used on input line 749.
+(pdftex.def)             Requested size: 71.31361pt x 83.16046pt.
+File: bode_compressor_legend.png Graphic file (type png)
+ <use bode_compressor_legend.png>
+Package pdftex.def Info: bode_compressor_legend.png used on input line 751.
+(pdftex.def)             Requested size: 303.82428pt x 14.22636pt.
+
+Overfull \hbox (51.82428pt too wide) in paragraph at lines 747--754
+ [] 
+ []
+
+[3 <./frequency_response_T_20.png> <./frequency_response_T_200.png> <./frequenc
+y_response_T_2000.png> <./frequency_response_legend.png> <./bode_renorm_0_1.png
+> <./bode_renorm_0_5.png> <./bode_renorm_1_0.png> <./bode_compressor_legend.png
+>] (./lostanlen2018spl.bbl [4 <./bode_compressor_0_2.png> <./bode_compressor_0_
+5.png> <./bode_compressor_0_8.png>]) [5] (./lostanlen2018spl.aux) ) 
+Here is how much of TeX's memory you used:
+ 17616 strings out of 492995
+ 344586 string characters out of 6132704
+ 405811 words of memory out of 5000000
+ 20685 multiletter control sequences out of 15000+600000
+ 87126 words of font info for 315 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 39i,10n,87p,10388b,969s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/
+texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-d
+ist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
+ype1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/ti
+mes/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8
+a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on lostanlen2018spl.pdf (5 pages, 3264051 bytes).
+PDF statistics:
+ 202 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 39622 words of extra memory for PDF output out of 42996 (max. 10000000)
+
