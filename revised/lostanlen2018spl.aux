@@ -1,0 +1,119 @@
+\relax 
+\citation{abdel2014taslp}
+\citation{espi2015eurasip}
+\citation{salamon2017icassp}
+\citation{umesh1999icassp}
+\citation{lostanlen2017phd}
+\citation{abdel2014taslp}
+\citation{anden2015mlsp}
+\citation{kondor2018icml,mallat2016rsta}
+\citation{mesaros2015applied}
+\citation{salamon2017spl}
+\citation{badeau2016techreport}
+\citation{franceschi2018aistats}
+\citation{mcdermott2011neuron}
+\citation{wang2017icassp}
+\citation{battenberg2017arxiv}
+\citation{krstulovic2018casse}
+\citation{wang2017icassp}
+\citation{shan2018attention}
+\providecommand \oddpage@label [2]{}
+\@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces A soundscape comprising bird calls, insect stridulations, and a passing vehicle. The logarithmic transformation of the mel-frequency spectrogram (a) maps all magnitudes to a decibel-like scale, whereas per-channel energy normalization (b) enhances transient events (bird calls) while discarding stationary noise (insects) as well as slow changes in loudness (vehicle). Data provided by BirdVox. Mel-spectrogram and PCEN computed with default librosa 0.6.1 parameters and $T=\SI {60}{\milli \second }$ (see Section IV\hbox {}).}}{1}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Logarithmic transformation.}}}{1}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Per-channel energy normalization (PCEN).}}}{1}}
+\newlabel{fig:spectrogram}{{1}{1}}
+\citation{bello2018cacm}
+\citation{stowell2015detection}
+\citation{lostanlen2017icassp}
+\citation{box1964jrss}
+\newlabel{sec:statistical}{{II}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {II}Why PCEN works: a statistical analysis}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}Datasets}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Gaussianization of magnitudes}{2}}
+\newlabel{sub:gaussianization}{{\unhbox \voidb@x \hbox {II-B}}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Distributions of magnitudes in the mel-frequency spectrogram after logmelspec (a), and PCEN (c), as estimated on three datasets of acoustic scenes: SONYC (left); DCASE 2013 SC (middle); and BirdVox (right). Each distribution is scaled to null mean and unit variance, and discretized with $500$ histogram bins ranging between $-4$ and $4$. For comparison, the dashed line indicates the standard normal distribution. See Subsection \unhbox \voidb@x \hbox {II-B}\hbox {} for details.}}{2}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Logarithmic transformation.}}}{2}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Per-channel energy normalization (PCEN).}}}{2}}
+\newlabel{fig:gaussianization}{{2}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Covariance matrices of frequency channels after logarithmic transformation (a) and PCEN (b), as estimated on three datasets of acoustic scenes: SONYC (left); DCASE 2013 (middle); and BirdVox (right). Darker shades indicate larger covariances in absolute value. See Subsection \unhbox \voidb@x \hbox {II-C}\hbox {} for details.}}{2}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Logarithmic transformation.}}}{2}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Per-channel energy normalization (PCEN).}}}{2}}
+\newlabel{fig:decorrelation}{{3}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-C}}Spectrogram whitening by decorrelation of frequency bands}{2}}
+\newlabel{sub:decorrelation}{{\unhbox \voidb@x \hbox {II-C}}{2}}
+\newlabel{sec:asymptotic}{{III}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {III}How PCEN works: an asymptotic analysis }{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Temporal integration}{2}}
+\newlabel{sub:temporal-integration}{{\unhbox \voidb@x \hbox {III-A}}{2}}
+\citation{wang2017icassp}
+\citation{chen2007taslp}
+\citation{hermansky1994tsap}
+\citation{atal1974jasa}
+\citation{anden2014taslp}
+\citation{katsamanis2014icassp,lostanlen2017phd}
+\citation{porter1984optimal}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Bode plot of the filter $\delimiter "026A30C \setbox \z@ \hbox {\frozen@everymath \@emptytoks \mathsurround \z@ $\textstyle \boldsymbol  {\phi }_T$}\mathaccent "0362{\boldsymbol  {\phi }_T}(\omega ) \delimiter "026A30C ^2$, measured in relative magnitude (dB) as a function of the ratio $\frac  {\omega }{\omega _\mathrm  {c}}$ between frequency and cutoff frequency $\omega _\mathrm  {c} = \frac  {2\pi \tau }{T}$. The time scale $T$ is alternatively set to $10^{1} 2\tau $ (left), $10^{2} 2\tau $ (middle), and $10^{3} 2\tau $ (right). We observe a sidelobe falloff of \SI {10}{\decibel } per decade in the stopband. Solid lines and shaded areas respectively denote asymptotic bounds and their corresponding error margins, as proved in Proposition III.1\hbox {}. The dashed purple (resp.\spacefactor \@m {}\xspace  {} green) vertical line denotes the cutoff (resp.\spacefactor \@m {}\xspace  {} Nyquist) frequency. }}{3}}
+\newlabel{fig:temporal-integration}{{4}{3}}
+\newlabel{eq:autoregressive}{{2}{3}}
+\newlabel{prop:temporal-integration}{{III.1}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Adaptive gain control (AGC)}{3}}
+\newlabel{eq:gain-control}{{3}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Static compression characteristic of gain $\mathbf  {M} \DOTSB \mapstochar \rightarrow (\varepsilon + \mathbf  {M})^{-\alpha }$, as a function of the ratio $\frac  {\mathbf  {M}}{\varepsilon }$ between input magnitude $\mathbf  {M}$ and soft threshold $\varepsilon $. The exponent $\alpha $ is alternatively set to $0.1$ (left), $0.5$ (middle), and $1.0$ (right). Solid lines and shaded areas respectively denote asymptotic bounds and their corresponding error margins, as proved in Proposition III.2\hbox {}. The dashed purple vertical line denotes the transition $\mathbf  {M} = \varepsilon $.}}{3}}
+\newlabel{fig:gain-control}{{5}{3}}
+\newlabel{prop:gain-control}{{III.2}{3}}
+\newlabel{prop:invariance}{{III.3}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-C}}Dynamic range compression (DRC)}{3}}
+\newlabel{prop:loudness-compression}{{III.4}{3}}
+\citation{salamon2016plos,shonfield2017ace}
+\citation{wang2017icassp}
+\citation{mcfee2018librosa061}
+\citation{wang2017icassp}
+\citation{bello2018cacm}
+\citation{lostanlen2016ismir}
+\citation{wang2017icassp}
+\bibstyle{IEEEtran}
+\bibdata{IEEEabrv,lostanlen2018spl}
+\bibcite{abdel2014taslp}{1}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Static compression characteristic of dynamic range compressions $\mathbf  {G} \DOTSB \mapstochar \rightarrow (\mathbf  {G} + \delta )^r - \delta ^r$, as a function of the ratio $\frac  {\mathbf  {G}}{\delta }$ between input magnitude $\mathbf  {G}$ and soft threshold $\delta $, for different values of $r$: $0.25$ (left), $0.5$ (right), and $0.75$ (right). Solid lines and shaded areas respectively denote asymptotic bounds and their corresponding error margins, as proved in Proposition III.4\hbox {}.}}{4}}
+\newlabel{fig:loudness-compression}{{6}{4}}
+\newlabel{sec:practical-recommendations}{{IV}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {IV}Practical recommendations}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}Setting parameters $T$ and $s$}{4}}
+\newlabel{eq:rule-of-thumb}{{5}{4}}
+\newlabel{prop:T-to-s}{{IV.1}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Setting parameters $\varepsilon $ and $\alpha $}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}}Setting parameters $\delta $ and $r$}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}}Open source implementation of PCEN in librosa}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {V}Conclusion}{4}}
+\bibcite{espi2015eurasip}{2}
+\bibcite{salamon2017icassp}{3}
+\bibcite{umesh1999icassp}{4}
+\bibcite{lostanlen2017phd}{5}
+\bibcite{anden2015mlsp}{6}
+\bibcite{kondor2018icml}{7}
+\bibcite{mallat2016rsta}{8}
+\bibcite{mesaros2015applied}{9}
+\bibcite{salamon2017spl}{10}
+\bibcite{badeau2016techreport}{11}
+\bibcite{franceschi2018aistats}{12}
+\bibcite{mcdermott2011neuron}{13}
+\bibcite{wang2017icassp}{14}
+\bibcite{battenberg2017arxiv}{15}
+\bibcite{krstulovic2018casse}{16}
+\bibcite{shan2018attention}{17}
+\bibcite{bello2018cacm}{18}
+\bibcite{stowell2015detection}{19}
+\bibcite{lostanlen2017icassp}{20}
+\bibcite{box1964jrss}{21}
+\bibcite{chen2007taslp}{22}
+\bibcite{hermansky1994tsap}{23}
+\bibcite{atal1974jasa}{24}
+\bibcite{anden2014taslp}{25}
+\bibcite{katsamanis2014icassp}{26}
+\bibcite{porter1984optimal}{27}
+\bibcite{salamon2016plos}{28}
+\bibcite{shonfield2017ace}{29}
+\bibcite{mcfee2018librosa061}{30}
+\bibcite{lostanlen2016ismir}{31}
+\@writefile{toc}{\contentsline {section}{References}{5}}
