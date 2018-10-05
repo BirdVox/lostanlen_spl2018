@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 OCT 2018 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 OCT 2018 05:25
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **lostanlen2018spl.tex
 (./lostanlen2018spl.tex
@@ -863,10 +864,10 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package epstopdf Info: Source file: <logE_spectrogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 530590 bytes
 (epstopdf)             Output file: <logE_spectrogram-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:08
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 74124 bytes
 (epstopdf)             Command: <repstopdf --outfile=logE_spectrogram-eps-conve
 rted-to.pdf logE_spectrogram.eps>
@@ -881,10 +882,10 @@ Package pdftex.def Info: logE_spectrogram-eps-converted-to.pdf used on input li
 ne 524.
 (pdftex.def)             Requested size: 252.0pt x 53.06834pt.
 Package epstopdf Info: Source file: <PCEN_spectrogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 528010 bytes
 (epstopdf)             Output file: <PCEN_spectrogram-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:08
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 82052 bytes
 (epstopdf)             Command: <repstopdf --outfile=PCEN_spectrogram-eps-conve
 rted-to.pdf PCEN_spectrogram.eps>
@@ -904,11 +905,11 @@ ne 527.
  <./logE_spectrogram-eps-converted-to.pdf> <./PCEN_spectrogram-eps-converted-to
 .pdf>]
 Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19009 bytes
 (epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-09-28 19:17:09
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4211 bytes
 (epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
 eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
@@ -923,11 +924,11 @@ Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
  input line 589.
 (pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
 Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19009 bytes
 (epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-09-28 19:17:09
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4211 bytes
 (epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
 eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
@@ -940,11 +941,11 @@ Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
  input line 589.
 (pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
 Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19009 bytes
 (epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-09-28 19:17:09
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4211 bytes
 (epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
 eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
@@ -957,11 +958,11 @@ Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
  input line 589.
 (pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
 Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 18967 bytes
 (epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:10
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4216 bytes
 (epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
 ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
@@ -977,11 +978,11 @@ Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
 d on input line 589.
 (pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
 Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 18967 bytes
 (epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:10
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4216 bytes
 (epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
 ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
@@ -995,11 +996,11 @@ Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
 d on input line 589.
 (pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
 Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 18967 bytes
 (epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:10
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4216 bytes
 (epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
 ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
@@ -1013,11 +1014,11 @@ Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
 d on input line 589.
 (pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
 Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19131 bytes
 (epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:10
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4132 bytes
 (epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
 m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
@@ -1032,11 +1033,11 @@ Package pdftex.def Info: BirdVox-pcen_logE_histogram-eps-converted-to.pdf used
 on input line 589.
 (pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
 Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19131 bytes
 (epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:10
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4132 bytes
 (epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
 m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
@@ -1049,11 +1050,11 @@ Package pdftex.def Info: BirdVox-pcen_logE_histogram-eps-converted-to.pdf used
 on input line 589.
 (pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
 Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19131 bytes
 (epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:10
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4132 bytes
 (epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
 m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
@@ -1071,11 +1072,11 @@ Overfull \hbox (4.4815pt too wide) in paragraph at lines 589--600
  []
 
 Package epstopdf Info: Source file: <SONYC-pcen_PCEN_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19023 bytes
 (epstopdf)             Output file: <SONYC-pcen_PCEN_histogram-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-09-28 19:17:10
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4195 bytes
 (epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_PCEN_histogram-
 eps-converted-to.pdf SONYC-pcen_PCEN_histogram.eps>
@@ -1090,11 +1091,11 @@ Package pdftex.def Info: SONYC-pcen_PCEN_histogram-eps-converted-to.pdf used on
  input line 604.
 (pdftex.def)             Requested size: 83.16046pt x 26.38219pt.
 Package epstopdf Info: Source file: <DCASE2013-pcen_PCEN_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19029 bytes
 (epstopdf)             Output file: <DCASE2013-pcen_PCEN_histogram-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:11
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4201 bytes
 (epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_PCEN_histog
 ram-eps-converted-to.pdf DCASE2013-pcen_PCEN_histogram.eps>
@@ -1110,11 +1111,11 @@ Package pdftex.def Info: DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf use
 d on input line 604.
 (pdftex.def)             Requested size: 83.16046pt x 26.38219pt.
 Package epstopdf Info: Source file: <BirdVox-pcen_PCEN_histogram.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 19095 bytes
 (epstopdf)             Output file: <BirdVox-pcen_PCEN_histogram-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:11
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 4166 bytes
 (epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_PCEN_histogra
 m-eps-converted-to.pdf BirdVox-pcen_PCEN_histogram.eps>
@@ -1134,11 +1135,11 @@ Overfull \hbox (4.4815pt too wide) in paragraph at lines 604--609
  []
 
 Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288604 bytes
 (epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 15008 bytes
 (epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
 -eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
@@ -1153,11 +1154,11 @@ Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
 n input line 622.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288604 bytes
 (epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 15008 bytes
 (epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
 -eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
@@ -1170,11 +1171,11 @@ Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
 n input line 622.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288604 bytes
 (epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 15008 bytes
 (epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
 -eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
@@ -1187,11 +1188,11 @@ Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
 n input line 622.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288608 bytes
 (epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 11736 bytes
 (epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
 ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
@@ -1207,11 +1208,11 @@ Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
 ed on input line 622.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288608 bytes
 (epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 11736 bytes
 (epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
 ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
@@ -1225,11 +1226,11 @@ Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
 ed on input line 622.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288608 bytes
 (epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 11736 bytes
 (epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
 ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
@@ -1243,11 +1244,11 @@ Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
 ed on input line 622.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288606 bytes
 (epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 27716 bytes
 (epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
 ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
@@ -1263,11 +1264,11 @@ Package pdftex.def Info: BirdVox-pcen_logE_covariance-eps-converted-to.pdf used
  on input line 622.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288606 bytes
 (epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 27716 bytes
 (epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
 ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
@@ -1281,11 +1282,11 @@ Package pdftex.def Info: BirdVox-pcen_logE_covariance-eps-converted-to.pdf used
  on input line 622.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288606 bytes
 (epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 27716 bytes
 (epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
 ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
@@ -1304,11 +1305,11 @@ Overfull \hbox (7.98157pt too wide) in paragraph at lines 622--623
  []
 
 Package epstopdf Info: Source file: <SONYC-pcen_PCEN_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288604 bytes
 (epstopdf)             Output file: <SONYC-pcen_PCEN_covariance-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:13
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 18625 bytes
 (epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_PCEN_covariance
 -eps-converted-to.pdf SONYC-pcen_PCEN_covariance.eps>
@@ -1323,11 +1324,11 @@ Package pdftex.def Info: SONYC-pcen_PCEN_covariance-eps-converted-to.pdf used o
 n input line 627.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <DCASE2013-pcen_PCEN_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288608 bytes
 (epstopdf)             Output file: <DCASE2013-pcen_PCEN_covariance-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:13
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 15115 bytes
 (epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_PCEN_covari
 ance-eps-converted-to.pdf DCASE2013-pcen_PCEN_covariance.eps>
@@ -1343,11 +1344,11 @@ Package pdftex.def Info: DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf us
 ed on input line 627.
 (pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
 Package epstopdf Info: Source file: <BirdVox-pcen_PCEN_covariance.eps>
-(epstopdf)                    date: 2018-07-20 20:53:12
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 288606 bytes
 (epstopdf)             Output file: <BirdVox-pcen_PCEN_covariance-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2018-09-28 19:17:14
+(epstopdf)                    date: 2018-10-03 13:50:05
 (epstopdf)                    size: 22301 bytes
 (epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_PCEN_covarian
 ce-eps-converted-to.pdf BirdVox-pcen_PCEN_covariance.eps>
