@@ -14,44 +14,44 @@ Database file #2: lostanlen2018spl.bib
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 31 entries,
+You've used 32 entries,
             4087 wiz_defined-function locations,
-            1506 strings with 23425 characters,
-and the built_in function-call counts, 21269 in all, are:
-= -- 1642
-> -- 633
+            1509 strings with 23546 characters,
+and the built_in function-call counts, 21728 in all, are:
+= -- 1674
+> -- 642
 < -- 124
-+ -- 328
-- -- 130
-* -- 1013
-:= -- 3225
-add.period$ -- 65
-call.type$ -- 31
-change.case$ -- 31
++ -- 332
+- -- 132
+* -- 1032
+:= -- 3298
+add.period$ -- 67
+call.type$ -- 32
+change.case$ -- 32
 chr.to.int$ -- 264
-cite$ -- 31
-duplicate$ -- 1600
-empty$ -- 1774
-format.name$ -- 156
-if$ -- 4933
+cite$ -- 32
+duplicate$ -- 1640
+empty$ -- 1830
+format.name$ -- 159
+if$ -- 5042
 int.to.chr$ -- 0
-int.to.str$ -- 31
-missing$ -- 318
-newline$ -- 118
-num.names$ -- 31
-pop$ -- 779
+int.to.str$ -- 32
+missing$ -- 326
+newline$ -- 121
+num.names$ -- 32
+pop$ -- 802
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1651
+skip$ -- 1690
 stack$ -- 0
-substring$ -- 665
-swap$ -- 1206
+substring$ -- 666
+swap$ -- 1226
 text.length$ -- 36
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 31
+type$ -- 32
 warning$ -- 0
-while$ -- 72
-width$ -- 33
-write$ -- 310
+while$ -- 73
+width$ -- 34
+write$ -- 318

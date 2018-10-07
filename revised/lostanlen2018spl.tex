@@ -1,4 +1,4 @@
-%% bare_jrnl.tex
+%% bare_jrnl.texf
 %% V1.4b
 %% 2015/08/26
 %% by Michael Shell
@@ -433,7 +433,7 @@ J. Salamon, M. Cartwright, B. McFee, and J. P. Bello are with New York Universit
 
 
 % The paper headers
-\markboth{IEEE Signal Processing Letters,~Vol.~X, No.~Y, Submitted~July~2018}%
+\markboth{IEEE Signal Processing Letters,~Vol.~X, No.~Y, Submitted~July~2018, Revised~October~2018}%
 {Lostanlen \MakeLowercase{\textit{et al.}}: \title{}}
 % The only time the second header will appear is for the odd numbered pages
 % after the title page when using the twoside option.
@@ -539,7 +539,7 @@ PCEN combines dynamic range compression (DRC, also present in logmelspec) and ad
 \end{equation}
 where $\alpha, \varepsilon, r$, and $\delta$ are positive constants.
 While DRC reduces the variance of foreground loudness, AGC is intended to suppress stationary background noise.
-The resulting representation has shown to improve performance in far-field ASR \cite{battenberg2017arxiv}, AED \cite{krstulovic2018casse}, keyword spotting \cite{wang2017icassp}, and speech-to-text systems \cite{shan2018attention}. However, the literature is yet to provide clear insight into why and how PCEN works.
+The resulting representation has shown to improve performance in far-field ASR \cite{battenberg2017arxiv}, AED \cite{krstulovic2018casse}, keyword spotting \cite{wang2017icassp, shan2018attention}, and vocal activity detection in music \cite{schluter2018ismir}. However, the literature is yet to provide clear insight into why and how PCEN works.
 
 This article aims to address this gap by showing empirically how PCEN Gaussianizes and whitens mel-frequency magnitude spectra in various acoustic conditions, characterizing the effect of its various parameters by means of theoretical and practical insights combined, and providing concrete guidelines in setting them to optimize performance in a given application context.
 

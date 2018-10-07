@@ -101,6 +101,10 @@ C.~Shan, J.~Zhang, Y.~Wang, and L.~Xie, ``Attention-based end-to-end models for
   small-footprint keyword spotting,'' \emph{arXiv preprint arXiv:1803.10916},
   2018.
 
+\bibitem{schluter2018ismir}
+J.~Schl\"{u}ter and B.~Lehner, ``Zero-mean convolutions for level-invariant
+  singing voice detection,'' in \emph{Proc. ISMIR}, 2018.
+
 \bibitem{bello2018cacm}
 J.~P. Bello, C.~Silva, O.~Nov, R.~L. DuBois, A.~Arora, J.~Salamon, C.~Mydlarz,
   and H.~Doraiswamy, ``{SONYC}: A system for the monitoring, analysis and

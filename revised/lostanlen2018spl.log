@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 OCT 2018 05:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 OCT 2018 08:26
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**lostanlen2018spl.tex
+**lostanlen2018spl
 (./lostanlen2018spl.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
@@ -1397,14 +1396,14 @@ File: frequency_response_T_2000.png Graphic file (type png)
 Package pdftex.def Info: frequency_response_T_2000.png used on input line 668.
 (pdftex.def)             Requested size: 73.9925pt x 83.16046pt.
 
-<frequency_response_legend.png, id=140, 1156.03091pt x 54.13023pt>
+<frequency_response_legend.png, id=140, 1157.7654pt x 57.5992pt>
 File: frequency_response_legend.png Graphic file (type png)
 
 <use frequency_response_legend.png>
 Package pdftex.def Info: frequency_response_legend.png used on input line 670.
-(pdftex.def)             Requested size: 303.82428pt x 14.22636pt.
+(pdftex.def)             Requested size: 285.94276pt x 14.22636pt.
 
-Overfull \hbox (51.82428pt too wide) in paragraph at lines 666--678
+Overfull \hbox (33.94276pt too wide) in paragraph at lines 666--678
  [] 
  []
 
@@ -1429,14 +1428,14 @@ File: bode_renorm_1_0.png Graphic file (type png)
 Package pdftex.def Info: bode_renorm_1_0.png used on input line 717.
 (pdftex.def)             Requested size: 78.01082pt x 83.16046pt.
 
-<bode_compressor_legend.png, id=144, 1156.03091pt x 54.13023pt>
+<bode_compressor_legend.png, id=144, 1158.99399pt x 57.5992pt>
 File: bode_compressor_legend.png Graphic file (type png)
 
 <use bode_compressor_legend.png>
 Package pdftex.def Info: bode_compressor_legend.png used on input line 719.
-(pdftex.def)             Requested size: 303.82428pt x 14.22636pt.
+(pdftex.def)             Requested size: 286.24619pt x 14.22636pt.
 
-Overfull \hbox (51.82428pt too wide) in paragraph at lines 712--723
+Overfull \hbox (34.24619pt too wide) in paragraph at lines 712--723
  [] 
  []
 
@@ -1463,9 +1462,9 @@ Package pdftex.def Info: bode_compressor_0_8.png used on input line 750.
 File: bode_compressor_legend.png Graphic file (type png)
  <use bode_compressor_legend.png>
 Package pdftex.def Info: bode_compressor_legend.png used on input line 752.
-(pdftex.def)             Requested size: 303.82428pt x 14.22636pt.
+(pdftex.def)             Requested size: 286.24619pt x 14.22636pt.
 
-Overfull \hbox (51.82428pt too wide) in paragraph at lines 748--755
+Overfull \hbox (34.24619pt too wide) in paragraph at lines 748--755
  [] 
  []
 
@@ -1475,13 +1474,13 @@ y_response_T_2000.png> <./frequency_response_legend.png> <./bode_renorm_0_1.png
 >] (./lostanlen2018spl.bbl [4 <./bode_compressor_0_2.png> <./bode_compressor_0_
 5.png> <./bode_compressor_0_8.png>]) [5] (./lostanlen2018spl.aux) ) 
 Here is how much of TeX's memory you used:
- 17611 strings out of 492995
- 344529 string characters out of 6132704
- 405819 words of memory out of 5000000
- 20686 multiletter control sequences out of 15000+600000
- 86806 words of font info for 311 fonts, out of 8000000 for 9000
+ 17616 strings out of 492995
+ 344583 string characters out of 6132704
+ 405823 words of memory out of 5000000
+ 20688 multiletter control sequences out of 15000+600000
+ 86925 words of font info for 313 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 39i,10n,87p,10388b,969s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,10n,87p,10384b,969s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/
 texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/tex
@@ -1493,7 +1492,7 @@ ype1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/ti
 mes/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8
 a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on lostanlen2018spl.pdf (5 pages, 3263950 bytes).
+Output written on lostanlen2018spl.pdf (5 pages, 3307638 bytes).
 PDF statistics:
  202 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
