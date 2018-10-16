@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 OCT 2018 06:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 OCT 2018 16:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -873,11 +873,11 @@ Package microtype Info: Loading generic settings for font family
 ]
 (./lostanlen2018spl_supplementary.aux) ) 
 Here is how much of TeX's memory you used:
- 17255 strings out of 492995
- 337282 string characters out of 6132704
+ 17261 strings out of 492995
+ 337333 string characters out of 6132704
  409001 words of memory out of 5000000
  20529 multiletter control sequences out of 15000+600000
- 63736 words of font info for 180 fonts, out of 8000000 for 9000
+ 63974 words of font info for 184 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  39i,14n,54p,10402b,787s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fon
@@ -893,7 +893,7 @@ usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></
 usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/20
 17/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on lostanlen2018spl_supplementary.pdf (1 page, 104519 bytes).
+Output written on lostanlen2018spl_supplementary.pdf (1 page, 104578 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
