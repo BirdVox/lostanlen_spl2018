@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  23 OCT 2018 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  31 OCT 2018 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**lostanlen2018spl.tex
-(./lostanlen2018spl.tex
+**lostanlen2018spl_supplementary.tex
+(./lostanlen2018spl_supplementary.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./IEEEtran.cls
@@ -711,22 +711,26 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
-(./lostanlen2018spl.aux)
-\openout1 = `lostanlen2018spl.aux'.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xr.sty
+Package: xr 1994/05/28 v5.02 eXternal References (DPC)
+)
+Package xr Info: IMPORTING LABELS FROM lostanlen2018spl.aux on input line 377.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
+No file lostanlen2018spl_supplementary.aux.
+\openout1 = `lostanlen2018spl_supplementary.aux'.
 
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
 -- Lines per column: 58 (exact).
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -801,7 +805,7 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/local/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/05/19 v2.7g siunitx: Abbreviated units
 )
-LaTeX Info: Redefining \microtypecontext on input line 380.
+LaTeX Info: Redefining \microtypecontext on input line 382.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -816,7 +820,7 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 \c__siunitx_mathsf_int=\count192
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 38
-0.
+2.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -826,27 +830,27 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 38
-0.
+2.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 38
-0.
+2.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 38
-0.
+2.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 382.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -863,640 +867,50 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package epstopdf Info: Source file: <logE_spectrogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 530590 bytes
-(epstopdf)             Output file: <logE_spectrogram-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 74124 bytes
-(epstopdf)             Command: <repstopdf --outfile=logE_spectrogram-eps-conve
-rted-to.pdf logE_spectrogram.eps>
-(epstopdf)             \includegraphics on input line 524.
-Package epstopdf Info: Output file is already uptodate.
 
-<logE_spectrogram-eps-converted-to.pdf, id=1, 853.1875pt x 179.67125pt>
-File: logE_spectrogram-eps-converted-to.pdf Graphic file (type pdf)
 
-<use logE_spectrogram-eps-converted-to.pdf>
-Package pdftex.def Info: logE_spectrogram-eps-converted-to.pdf used on input li
-ne 524.
-(pdftex.def)             Requested size: 252.0pt x 53.06834pt.
-Package epstopdf Info: Source file: <PCEN_spectrogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 528010 bytes
-(epstopdf)             Output file: <PCEN_spectrogram-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 82052 bytes
-(epstopdf)             Command: <repstopdf --outfile=PCEN_spectrogram-eps-conve
-rted-to.pdf PCEN_spectrogram.eps>
-(epstopdf)             \includegraphics on input line 527.
-Package epstopdf Info: Output file is already uptodate.
+LaTeX Warning: Reference `eq:cutoff-frequency' on page 1 undefined on input lin
+e 603.
 
-<PCEN_spectrogram-eps-converted-to.pdf, id=2, 853.1875pt x 179.67125pt>
-File: PCEN_spectrogram-eps-converted-to.pdf Graphic file (type pdf)
 
-<use PCEN_spectrogram-eps-converted-to.pdf>
-Package pdftex.def Info: PCEN_spectrogram-eps-converted-to.pdf used on input li
-ne 527.
-(pdftex.def)             Requested size: 252.0pt x 53.06834pt.
- [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+LaTeX Warning: Reference `eq:G-approx' on page 1 undefined on input line 742.
 
+[1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./logE_spectrogram-eps-converted-to.pdf> <./PCEN_spectrogram-eps-converted-to
-.pdf>]
-Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19009 bytes
-(epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4211 bytes
-(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
-eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
+]
+(./lostanlen2018spl_supplementary.aux)
 
-<SONYC-pcen_logE_histogram-eps-converted-to.pdf, id=73, 245.91875pt x 675.52374
-pt>
-File: SONYC-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
- <use SONYC-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
- input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19009 bytes
-(epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4211 bytes
-(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
-eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
-File: SONYC-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
+LaTeX Warning: There were undefined references.
 
-<use SONYC-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
- input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-Package epstopdf Info: Source file: <SONYC-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19009 bytes
-(epstopdf)             Output file: <SONYC-pcen_logE_histogram-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4211 bytes
-(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_histogram-
-eps-converted-to.pdf SONYC-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
-File: SONYC-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
 
-<use SONYC-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: SONYC-pcen_logE_histogram-eps-converted-to.pdf used on
- input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 18967 bytes
-(epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
-d-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4216 bytes
-(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
-ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-<DCASE2013-pcen_logE_histogram-eps-converted-to.pdf, id=77, 245.91875pt x 675.5
-2374pt>
-File: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf
-)
- <use DCASE2013-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
-d on input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 18967 bytes
-(epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
-d-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4216 bytes
-(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
-ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
-File: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf
-)
-
-<use DCASE2013-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
-d on input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-Package epstopdf Info: Source file: <DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 18967 bytes
-(epstopdf)             Output file: <DCASE2013-pcen_logE_histogram-eps-converte
-d-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4216 bytes
-(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_histog
-ram-eps-converted-to.pdf DCASE2013-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
-File: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf
-)
-
-<use DCASE2013-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: DCASE2013-pcen_logE_histogram-eps-converted-to.pdf use
-d on input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19131 bytes
-(epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4132 bytes
-(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
-m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
-
-<BirdVox-pcen_logE_histogram-eps-converted-to.pdf, id=81, 245.91875pt x 675.523
-74pt>
-File: BirdVox-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
- <use BirdVox-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: BirdVox-pcen_logE_histogram-eps-converted-to.pdf used 
-on input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19131 bytes
-(epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4132 bytes
-(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
-m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
-File: BirdVox-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
-
-<use BirdVox-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: BirdVox-pcen_logE_histogram-eps-converted-to.pdf used 
-on input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-Package epstopdf Info: Source file: <BirdVox-pcen_logE_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19131 bytes
-(epstopdf)             Output file: <BirdVox-pcen_logE_histogram-eps-converted-
-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4132 bytes
-(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_histogra
-m-eps-converted-to.pdf BirdVox-pcen_logE_histogram.eps>
-(epstopdf)             \includegraphics on input line 589.
-Package epstopdf Info: Output file is already uptodate.
-File: BirdVox-pcen_logE_histogram-eps-converted-to.pdf Graphic file (type pdf)
-
-<use BirdVox-pcen_logE_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: BirdVox-pcen_logE_histogram-eps-converted-to.pdf used 
-on input line 589.
-(pdftex.def)             Requested size: 83.16046pt x 31.19304pt.
-
-Overfull \hbox (4.4815pt too wide) in paragraph at lines 589--600
- [][] 
- []
-
-Package epstopdf Info: Source file: <SONYC-pcen_PCEN_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19023 bytes
-(epstopdf)             Output file: <SONYC-pcen_PCEN_histogram-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4195 bytes
-(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_PCEN_histogram-
-eps-converted-to.pdf SONYC-pcen_PCEN_histogram.eps>
-(epstopdf)             \includegraphics on input line 604.
-Package epstopdf Info: Output file is already uptodate.
-
-<SONYC-pcen_PCEN_histogram-eps-converted-to.pdf, id=85, 245.91875pt x 675.52374
-pt>
-File: SONYC-pcen_PCEN_histogram-eps-converted-to.pdf Graphic file (type pdf)
- <use SONYC-pcen_PCEN_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: SONYC-pcen_PCEN_histogram-eps-converted-to.pdf used on
- input line 604.
-(pdftex.def)             Requested size: 83.16046pt x 26.38219pt.
-Package epstopdf Info: Source file: <DCASE2013-pcen_PCEN_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19029 bytes
-(epstopdf)             Output file: <DCASE2013-pcen_PCEN_histogram-eps-converte
-d-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4201 bytes
-(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_PCEN_histog
-ram-eps-converted-to.pdf DCASE2013-pcen_PCEN_histogram.eps>
-(epstopdf)             \includegraphics on input line 604.
-Package epstopdf Info: Output file is already uptodate.
-
-<DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf, id=87, 245.91875pt x 675.5
-2374pt>
-File: DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf Graphic file (type pdf
-)
- <use DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: DCASE2013-pcen_PCEN_histogram-eps-converted-to.pdf use
-d on input line 604.
-(pdftex.def)             Requested size: 83.16046pt x 26.38219pt.
-Package epstopdf Info: Source file: <BirdVox-pcen_PCEN_histogram.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 19095 bytes
-(epstopdf)             Output file: <BirdVox-pcen_PCEN_histogram-eps-converted-
-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 4166 bytes
-(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_PCEN_histogra
-m-eps-converted-to.pdf BirdVox-pcen_PCEN_histogram.eps>
-(epstopdf)             \includegraphics on input line 604.
-Package epstopdf Info: Output file is already uptodate.
-
-<BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf, id=89, 245.91875pt x 675.523
-74pt>
-File: BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf Graphic file (type pdf)
- <use BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf>
-Package pdftex.def Info: BirdVox-pcen_PCEN_histogram-eps-converted-to.pdf used 
-on input line 604.
-(pdftex.def)             Requested size: 83.16046pt x 26.38219pt.
-
-Overfull \hbox (4.4815pt too wide) in paragraph at lines 604--609
- [][] 
- []
-
-Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288604 bytes
-(epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 15008 bytes
-(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
--eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-
-<SONYC-pcen_logE_covariance-eps-converted-to.pdf, id=91, 239.89626pt x 239.8962
-6pt>
-File: SONYC-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
- <use SONYC-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
-n input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288604 bytes
-(epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 15008 bytes
-(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
--eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-File: SONYC-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
-
-<use SONYC-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
-n input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <SONYC-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288604 bytes
-(epstopdf)             Output file: <SONYC-pcen_logE_covariance-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 15008 bytes
-(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_logE_covariance
--eps-converted-to.pdf SONYC-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-File: SONYC-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
-
-<use SONYC-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: SONYC-pcen_logE_covariance-eps-converted-to.pdf used o
-n input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288608 bytes
-(epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
-ed-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 11736 bytes
-(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
-ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-
-<DCASE2013-pcen_logE_covariance-eps-converted-to.pdf, id=92, 239.89626pt x 239.
-89626pt>
-File: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pd
-f)
- <use DCASE2013-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
-ed on input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288608 bytes
-(epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
-ed-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 11736 bytes
-(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
-ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-File: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pd
-f)
-
-<use DCASE2013-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
-ed on input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288608 bytes
-(epstopdf)             Output file: <DCASE2013-pcen_logE_covariance-eps-convert
-ed-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 11736 bytes
-(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_logE_covari
-ance-eps-converted-to.pdf DCASE2013-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-File: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pd
-f)
-
-<use DCASE2013-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: DCASE2013-pcen_logE_covariance-eps-converted-to.pdf us
-ed on input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288606 bytes
-(epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
--to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 27716 bytes
-(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
-ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-
-<BirdVox-pcen_logE_covariance-eps-converted-to.pdf, id=93, 239.89626pt x 239.89
-626pt>
-File: BirdVox-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
-
- <use BirdVox-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: BirdVox-pcen_logE_covariance-eps-converted-to.pdf used
- on input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288606 bytes
-(epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
--to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 27716 bytes
-(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
-ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-File: BirdVox-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
-
-
-<use BirdVox-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: BirdVox-pcen_logE_covariance-eps-converted-to.pdf used
- on input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <BirdVox-pcen_logE_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288606 bytes
-(epstopdf)             Output file: <BirdVox-pcen_logE_covariance-eps-converted
--to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 27716 bytes
-(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_logE_covarian
-ce-eps-converted-to.pdf BirdVox-pcen_logE_covariance.eps>
-(epstopdf)             \includegraphics on input line 622.
-Package epstopdf Info: Output file is already uptodate.
-File: BirdVox-pcen_logE_covariance-eps-converted-to.pdf Graphic file (type pdf)
-
-
-<use BirdVox-pcen_logE_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: BirdVox-pcen_logE_covariance-eps-converted-to.pdf used
- on input line 622.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-
-Overfull \hbox (7.98157pt too wide) in paragraph at lines 622--623
- [][] 
- []
-
-Package epstopdf Info: Source file: <SONYC-pcen_PCEN_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288604 bytes
-(epstopdf)             Output file: <SONYC-pcen_PCEN_covariance-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 18625 bytes
-(epstopdf)             Command: <repstopdf --outfile=SONYC-pcen_PCEN_covariance
--eps-converted-to.pdf SONYC-pcen_PCEN_covariance.eps>
-(epstopdf)             \includegraphics on input line 627.
-Package epstopdf Info: Output file is already uptodate.
-
-<SONYC-pcen_PCEN_covariance-eps-converted-to.pdf, id=94, 239.89626pt x 239.8962
-6pt>
-File: SONYC-pcen_PCEN_covariance-eps-converted-to.pdf Graphic file (type pdf)
- <use SONYC-pcen_PCEN_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: SONYC-pcen_PCEN_covariance-eps-converted-to.pdf used o
-n input line 627.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <DCASE2013-pcen_PCEN_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288608 bytes
-(epstopdf)             Output file: <DCASE2013-pcen_PCEN_covariance-eps-convert
-ed-to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 15115 bytes
-(epstopdf)             Command: <repstopdf --outfile=DCASE2013-pcen_PCEN_covari
-ance-eps-converted-to.pdf DCASE2013-pcen_PCEN_covariance.eps>
-(epstopdf)             \includegraphics on input line 627.
-Package epstopdf Info: Output file is already uptodate.
-
-<DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf, id=95, 239.89626pt x 239.
-89626pt>
-File: DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf Graphic file (type pd
-f)
- <use DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: DCASE2013-pcen_PCEN_covariance-eps-converted-to.pdf us
-ed on input line 627.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-Package epstopdf Info: Source file: <BirdVox-pcen_PCEN_covariance.eps>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 288606 bytes
-(epstopdf)             Output file: <BirdVox-pcen_PCEN_covariance-eps-converted
--to.pdf>
-(epstopdf)                    date: 2018-10-03 13:50:05
-(epstopdf)                    size: 22301 bytes
-(epstopdf)             Command: <repstopdf --outfile=BirdVox-pcen_PCEN_covarian
-ce-eps-converted-to.pdf BirdVox-pcen_PCEN_covariance.eps>
-(epstopdf)             \includegraphics on input line 627.
-Package epstopdf Info: Output file is already uptodate.
-
-<BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf, id=96, 239.89626pt x 239.89
-626pt>
-File: BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf Graphic file (type pdf)
-
- <use BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf>
-Package pdftex.def Info: BirdVox-pcen_PCEN_covariance-eps-converted-to.pdf used
- on input line 627.
-(pdftex.def)             Requested size: 83.16046pt x 83.15962pt.
-
-Overfull \hbox (7.98157pt too wide) in paragraph at lines 627--629
- [][] 
- []
-
-[2 <./SONYC-pcen_logE_histogram-eps-converted-to.pdf> <./DCASE2013-pcen_logE_hi
-stogram-eps-converted-to.pdf> <./BirdVox-pcen_logE_histogram-eps-converted-to.p
-df> <./SONYC-pcen_PCEN_histogram-eps-converted-to.pdf> <./DCASE2013-pcen_PCEN_h
-istogram-eps-converted-to.pdf> <./BirdVox-pcen_PCEN_histogram-eps-converted-to.
-pdf> <./SONYC-pcen_logE_covariance-eps-converted-to.pdf> <./DCASE2013-pcen_logE
-_covariance-eps-converted-to.pdf> <./BirdVox-pcen_logE_covariance-eps-converted
--to.pdf> <./SONYC-pcen_PCEN_covariance-eps-converted-to.pdf> <./DCASE2013-pcen_
-PCEN_covariance-eps-converted-to.pdf> <./BirdVox-pcen_PCEN_covariance-eps-conve
-rted-to.pdf>] <frequency_response_T_20.png, id=136, 258.9434pt x 260.24426pt>
-File: frequency_response_T_20.png Graphic file (type png)
-
-<use frequency_response_T_20.png>
-Package pdftex.def Info: frequency_response_T_20.png used on input line 666.
-(pdftex.def)             Requested size: 82.74504pt x 83.16046pt.
-
-<frequency_response_T_200.png, id=138, 231.55309pt x 260.24426pt>
-File: frequency_response_T_200.png Graphic file (type png)
-
-<use frequency_response_T_200.png>
-Package pdftex.def Info: frequency_response_T_200.png used on input line 667.
-(pdftex.def)             Requested size: 73.9925pt x 83.16046pt.
-
-<frequency_response_T_2000.png, id=139, 231.55309pt x 260.24426pt>
-File: frequency_response_T_2000.png Graphic file (type png)
-
-<use frequency_response_T_2000.png>
-Package pdftex.def Info: frequency_response_T_2000.png used on input line 668.
-(pdftex.def)             Requested size: 73.9925pt x 83.16046pt.
-
-<frequency_response_legend.png, id=140, 1157.7654pt x 57.5992pt>
-File: frequency_response_legend.png Graphic file (type png)
-
-<use frequency_response_legend.png>
-Package pdftex.def Info: frequency_response_legend.png used on input line 670.
-(pdftex.def)             Requested size: 285.94276pt x 14.22636pt.
-
-Overfull \hbox (33.94276pt too wide) in paragraph at lines 666--678
- [] 
- []
-
-<bode_renorm_0_1.png, id=141, 271.51839pt x 260.24426pt>
-File: bode_renorm_0_1.png Graphic file (type png)
-
-<use bode_renorm_0_1.png>
-Package pdftex.def Info: bode_renorm_0_1.png used on input line 713.
-(pdftex.def)             Requested size: 86.76335pt x 83.16046pt.
-
-<bode_renorm_0_5.png, id=142, 244.12807pt x 260.24426pt>
-File: bode_renorm_0_5.png Graphic file (type png)
-
-<use bode_renorm_0_5.png>
-Package pdftex.def Info: bode_renorm_0_5.png used on input line 715.
-(pdftex.def)             Requested size: 78.01082pt x 83.16046pt.
-
-<bode_renorm_1_0.png, id=143, 244.12807pt x 260.24426pt>
-File: bode_renorm_1_0.png Graphic file (type png)
-
-<use bode_renorm_1_0.png>
-Package pdftex.def Info: bode_renorm_1_0.png used on input line 717.
-(pdftex.def)             Requested size: 78.01082pt x 83.16046pt.
-
-<bode_compressor_legend.png, id=144, 1158.99399pt x 57.5992pt>
-File: bode_compressor_legend.png Graphic file (type png)
-
-<use bode_compressor_legend.png>
-Package pdftex.def Info: bode_compressor_legend.png used on input line 719.
-(pdftex.def)             Requested size: 286.24619pt x 14.22636pt.
-
-Overfull \hbox (34.24619pt too wide) in paragraph at lines 712--723
- [] 
- []
-
-<bode_compressor_0_2.png, id=145, 283.00932pt x 260.24426pt>
-File: bode_compressor_0_2.png Graphic file (type png)
-
-<use bode_compressor_0_2.png>
-Package pdftex.def Info: bode_compressor_0_2.png used on input line 748.
-(pdftex.def)             Requested size: 90.43527pt x 83.16046pt.
-
-<bode_compressor_0_5.png, id=146, 223.16975pt x 260.24426pt>
-File: bode_compressor_0_5.png Graphic file (type png)
-
-<use bode_compressor_0_5.png>
-Package pdftex.def Info: bode_compressor_0_5.png used on input line 749.
-(pdftex.def)             Requested size: 71.31361pt x 83.16046pt.
-
-<bode_compressor_0_8.png, id=147, 223.16975pt x 260.24426pt>
-File: bode_compressor_0_8.png Graphic file (type png)
-
-<use bode_compressor_0_8.png>
-Package pdftex.def Info: bode_compressor_0_8.png used on input line 750.
-(pdftex.def)             Requested size: 71.31361pt x 83.16046pt.
-File: bode_compressor_legend.png Graphic file (type png)
- <use bode_compressor_legend.png>
-Package pdftex.def Info: bode_compressor_legend.png used on input line 752.
-(pdftex.def)             Requested size: 286.24619pt x 14.22636pt.
-
-Overfull \hbox (34.24619pt too wide) in paragraph at lines 748--755
- [] 
- []
-
-[3 <./frequency_response_T_20.png> <./frequency_response_T_200.png> <./frequenc
-y_response_T_2000.png> <./frequency_response_legend.png> <./bode_renorm_0_1.png
-> <./bode_renorm_0_5.png> <./bode_renorm_1_0.png> <./bode_compressor_legend.png
->] (./lostanlen2018spl.bbl [4 <./bode_compressor_0_2.png> <./bode_compressor_0_
-5.png> <./bode_compressor_0_8.png>]) [5] (./lostanlen2018spl.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 17628 strings out of 492995
- 344682 string characters out of 6132704
- 405823 words of memory out of 5000000
- 20688 multiletter control sequences out of 15000+600000
- 87401 words of font info for 321 fonts, out of 8000000 for 9000
+ 17259 strings out of 492995
+ 337263 string characters out of 6132704
+ 408985 words of memory out of 5000000
+ 20529 multiletter control sequences out of 15000+600000
+ 63974 words of font info for 184 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 39i,10n,87p,10388b,969s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/
-texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-d
-ist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
-ype1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/ti
-mes/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8
-a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on lostanlen2018spl.pdf (5 pages, 3307644 bytes).
+ 39i,14n,54p,10402b,787s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/font
+s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on lostanlen2018spl_supplementary.pdf (1 page, 105395 bytes).
 PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 39622 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 26625 words of extra memory for PDF output out of 29859 (max. 10000000)
 

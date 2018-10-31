@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  23 OCT 2018 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 OCT 2018 14:14
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**lostanlen2018spl.tex
+**lostanlen2018spl
 (./lostanlen2018spl.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
@@ -1481,7 +1480,7 @@ Here is how much of TeX's memory you used:
  20688 multiletter control sequences out of 15000+600000
  87401 words of font info for 321 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 39i,10n,87p,10388b,969s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,10n,87p,10384b,969s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/
 texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/tex
@@ -1493,7 +1492,7 @@ ype1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/ti
 mes/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8
 a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on lostanlen2018spl.pdf (5 pages, 3307644 bytes).
+Output written on lostanlen2018spl.pdf (5 pages, 3307638 bytes).
 PDF statistics:
  202 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream

@@ -433,7 +433,7 @@ J. Salamon, M. Cartwright, B. McFee, and J. P. Bello are with New York Universit
 
 
 % The paper headers
-\markboth{IEEE Signal Processing Letters,~Vol.~X, No.~Y, Submitted~July~2018, Revised~October~2018}%
+\markboth{IEEE Signal Processing Letters, Submitted~July~2018, Accepted~September~2018, Published~November~2018}%
 {Lostanlen \MakeLowercase{\textit{et al.}}: \title{}}
 % The only time the second header will appear is for the odd numbered pages
 % after the title page when using the twoside option.
@@ -575,7 +575,7 @@ Figure \ref{fig:gaussianization} displays a histogram of all magnitudes in the m
 %Each histogram consists of $500$ discrete bins, roughly amounting to a million samples.
 We observe that, for each of the three datasets, logmelspec magnitudes exhibit a skewed distribution, either left (BirdVox) or right (SONYC, DCASE 2013 SC).
 Replacing the logarithm by an adapted Box-Cox power transform \cite{box1964jrss} could, in principle, improve normality, but the maximum likelihood inference of its two parameters (offset and exponent) is inadequate for real-time applications.
-Furthermore, we found in practice that both logarithm and adaptive Box-Cox led to leptokurtic (thin-tailed) distributions.
+Furthermore, we found in practice that both logarithm and adaptive Box-Cox led to leptokurtic  distributions.
 On the contrary, PCEN successfully brings the distribution of magnitudes closer to Gaussian, with skewness and kurtosis both negligible.
 
 The Shapiro-Wilk test of normality indicates statistically significant evidence to reject the claim that the logarithmic transformation Gaussianizes the distribution of spectrogram magnitudes ($p<0.005$ on all three datasets).
